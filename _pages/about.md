@@ -23,7 +23,7 @@ I am a PhD student in the <a href="https://web.cs.dartmouth.edu/">Computer Scien
 I completed my B.Sc. in Computer Science and Engineering from CUET, where I worked in the <a href="[https://home.dartmouth.edu](https://www.researchgate.net/lab/CUET-NLP-Lab-Moshiul-Hoque)/">CUET NLP Lab</a> from my junior years and continue to collaborate to this day. During this time, I contributed to building Bengali NLP datasets and published multiple papers in reputed conferences. Under the supervision of <a href="https://scholar.google.com/citations?user=srYxYhcAAAAJ&hl=en&authuser=2"> Dr. Moshiul Hoque</a>, I completed my thesis on Textual Hostility Detection in Social Media using Ensemble Transformer Models, which strengthened my interest in socially grounded NLP and low-resource language processing. Beyond academics, I participated in several shared tasks and hackathons, and held leadership roles as General Secretary of the CUET Computer Club and Organizing Secretary of CUET CSE Fest.
 </p> 
 <p align="justify">
-Currently, I am a lecturer in the Department of CSE at <a ="https://iubat.edu/">IUBAT - International University of Business Agriculture and Technology</a>, where I have been teaching core CSE courses for the past two years. I focus on fostering an inclusive, supportive learning environment and actively mentor students to help them grow academically and professionally.
+Currently, I am a lecturer in the Department of CSE at <a href="https://iubat.edu/">International University of Business Agriculture and Technology</a>, where I have been teaching core CSE courses for the past two years. I focus on fostering an inclusive, supportive learning environment and actively mentor students to help them grow academically and professionally.
 </p> 
 
 
@@ -51,8 +51,8 @@ I am also pursuing my M.Sc. from CUET . My research interest lies in the interse
 ## <font color="#00cc66"> Updates </font>
 <div style="height: 400px; overflow: auto;">
 <pre>
-<span style="color:rgb(201, 76, 76)">20 Aug,25</span>    Our <a href="https://arxiv.org/pdf/2502.16838"><font color="#cc00ff">REGen paper</font></a> accepted at <a href="https://2025.emnlp.org/">EMNLP-2025</a> (findings).
-<span style="color:rgb(201, 76, 76)">19 Aug,25</span>    Successfully passed my RPE/Qual exam. Thanks to my committee <a href="https://www.cs.dartmouth.edu/~soroush/">Soroush Vosoughi</a>, <a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a>, and <a href="https://persist-lab.github.io/portfolio/">Sarah Preum</a>.
+<span style="color:rgb(201, 76, 76)">13 Jan,23</span> Joined <a href="https://iubat.edu/">IUBAT</a>  as a Lecturer in the Department of CSE</a> accepted at <a href="https://2025.emnlp.org/">EMNLP-2025</a> (findings).
+<!-- <span style="color:rgb(201, 76, 76)">19 Aug,25</span>    Successfully passed my RPE/Qual exam. Thanks to my committee <a href="https://www.cs.dartmouth.edu/~soroush/">Soroush Vosoughi</a>, <a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a>, and <a href="https://persist-lab.github.io/portfolio/">Sarah Preum</a>.
 <span style="color:rgb(201, 76, 76)">5 Aug,25</span>     Accepted <a href="https://aaai.org/conference/aaai/aaai-26/">AAAI-26</a> program committee invitation.
 <span style="color:rgb(201, 76, 76)">9 June,25</span>    Thrilled to receive <b>Outstanding TA Award</b> for my teaching contribution at <a href="https://web.cs.dartmouth.edu/">Dartmouth CS</a>.
 <span style="color:rgb(201, 76, 76)">15 May,25</span>    Two papers accepted at <a href="https://2025.aclweb.org/">ACL-2025</a> (1 Main, 1 Findings).
@@ -97,7 +97,7 @@ I am also pursuing my M.Sc. from CUET . My research interest lies in the interse
 <span style="color:rgb(201, 76, 76)">8 Feb,21</span>     Achieved <b>Best paper award (research track)</b> at <a href="http://lcs2.iiitd.edu.in/CONSTRAINT-2021">CONSTRAINT</a> collocated with <a href="https://aaai.org/Conferences/AAAI-21/">AAAI-2021</a>.<font color= "#f00">[Acceptance rate: 37.1%]</font>
 <span style="color:rgb(201, 76, 76)">16 Jan,21</span>    Our team NLP@CUET secured <b>1<sup>st</sup></b>, <b>3<sup>rd</sup></b> and <b>3<sup>rd</sup></b> position at <a href="https://sites.google.com/view/lt-edi-2021/home">Hope speech</a>, <a href="https://dravidianlangtech.github.io/2021/index.html">Offensive language</a> and <a href="https://dravidianlangtech.github.io/2021/index.html">Multimodal meme</a> detection shared tasks.
 <span style="color:rgb(201, 76, 76)">19 Dec,20</span>    Presented a <a href="https://arxiv.org/abs/2012.11420"><font color="#cc00ff">paper</font></a> at <a href="https://www.iitp.ac.in/~ai-nlp-ml/icon2020/index.html">ICON-2020</a>.
-<span style="color:rgb(201, 76, 76)">12 Sep,20</span>    <a href="https://www.mdpi.com/2076-3417/10/18/6527"><font color="#cc00ff">Paper</font></a> accepted at Jouranl of <a href="https://www.mdpi.com/journal/applsci">Applied Sciences</a>.<font color= "#f00">[IF: 2.67]</font>
+<span style="color:rgb(201, 76, 76)">12 Sep,20</span>    <a href="https://www.mdpi.com/2076-3417/10/18/6527"><font color="#cc00ff">Paper</font></a> accepted at Jouranl of <a href="https://www.mdpi.com/journal/applsci">Applied Sciences</a>.<font color= "#f00">[IF: 2.67]</font> -->
 <!---
 <font size="2">🟤</font> <span style="color:rgb(201, 76, 76)">25 Mar,2021</span>  One paper got accepted at <a href="https://naacl2021-srw.github.io/">NAACL-SRW</a>.
 <font size="2">⚫</font> <span style="color:rgb(201, 76, 76)">25 Mar,2021</span>  One paper got accepted at <a href="https://naacl2021-srw.github.io/">NAACL-SRW</a>.
