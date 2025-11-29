@@ -8,13 +8,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Omar Sharif | (ওমর শরিফ)"
+title                    : "Fahim Shakil Tamim"
 title_separator          : "-"
-name                     : &name "Omar Sharif"
+name                     : &name "Fahim Shakil Tamim"
 description              : &description ""
-url                      : https://omar-sharif.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fs-tamim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "omar-sharif/omar-sharif.github.io"
+repository               : "FS-Tamim/fs-tamim.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Omar Sharif"
+  name             : "Fahim Shakil Tamim"
   avatar           : "sharif-emnlp.png"
   bio              : "Graduate student at Dartmouth CS. Interested to apply deep learning to understand natural language."
   location         : "Hanover, New Hampshire"
