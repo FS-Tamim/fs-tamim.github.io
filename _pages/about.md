@@ -19,9 +19,11 @@ redirect_from:
 <!-- <p align="justify">
 I am a PhD student in the <a href="https://web.cs.dartmouth.edu/">Computer Science</a>  department at <a href="https://home.dartmouth.edu/">Dartmouth</a>. I am passionate about leveraging AI and NLP to advance Social Science and Computational Health. Currently, I am working on information extraction from texts to derive structured knowledge from unstructured narratives, aiming to improve discourse understanding. I am also enthusiastic about Multimodal NLP—particularly in designing models that can effectively fuse information across various modalities to enhance reasoning capabilities and enable seamless Human-AI interaction. In Spring 2025, I interned at <a href="https://aws.amazon.com/quicksight/q/">Amazon</a> with <a href="https://ngpatrick.com/">Patrick's</a> team to improve the visual reasoning abilities of MLLMs using Reinforcement Learning. Please check details about my <a href="https://omar-sharif.github.io/research/">research here</a>.
 </p>  -->
-I completed my B.Sc. in Computer Science and Engineering from CUET, where I worked in the CUET NLP Lab from my junior years and continue to collaborate to this day. During this time, I contributed to building Bengali NLP datasets and published multiple papers in reputed conferences. Under the supervision of Professor Dr. M. Moshiul Hoque, I completed my thesis on Textual Hostility Detection in Social Media using Ensemble Transformer Models, which strengthened my interest in socially grounded NLP and low-resource language processing. Beyond academics, I participated in several shared tasks and hackathons, and held leadership roles as General Secretary of the CUET Computer Club and Organizing Secretary of CUET CSE Fest.
-
-Currently, I am a lecturer in the Department of CSE at IUBAT - International University of Business Agriculture and Technology, where I have been teaching core CSE courses for the past two years. I focus on fostering an inclusive, supportive learning environment and actively mentor students to help them grow academically and professionally.
+<p align="justify">
+I completed my B.Sc. in Computer Science and Engineering from CUET, where I worked in the <a href="[https://home.dartmouth.edu](https://www.researchgate.net/lab/CUET-NLP-Lab-Moshiul-Hoque)/">CUET NLP Lab</a> from my junior years and continue to collaborate to this day. During this time, I contributed to building Bengali NLP datasets and published multiple papers in reputed conferences. Under the supervision of <a href="https://scholar.google.com/citations?user=srYxYhcAAAAJ&hl=en&authuser=2"> Dr. Moshiul Hoque</a>, I completed my thesis on Textual Hostility Detection in Social Media using Ensemble Transformer Models, which strengthened my interest in socially grounded NLP and low-resource language processing. Beyond academics, I participated in several shared tasks and hackathons, and held leadership roles as General Secretary of the CUET Computer Club and Organizing Secretary of CUET CSE Fest.
+</p> 
+<p align="justify">
+Currently, I am a lecturer in the Department of CSE at <a ="https://iubat.edu/">IUBAT - International University of Business Agriculture and Technology</a>, where I have been teaching core CSE courses for the past two years. I focus on fostering an inclusive, supportive learning environment and actively mentor students to help them grow academically and professionally.
 </p> 
 
 
@@ -31,7 +33,7 @@ Previously, I earned my M.Sc. and B.Sc. in Computer Science and Engineering from
 
 <b>Contact: 📧</b> [<font color= "#990033" >fstamim9@gmail.com</font>](fstamim9@gmail.com)
 
-<b>My latest: </b> [<a href="https://drive.google.com/file/d/1Sg6TjiDu-qrcqMvCFFcC6UhFLgJCzMOo/view?usp=sharing"><font color="#990033">Resume</font></a>]
+<b>My latest: </b> [<a href="https://drive.google.com/file/d/1kbe6oFGo6NcFUgN-SXyl2XiUdkep85un/view?usp=sharing"><font color="#990033">Resume</font></a>]
 
 
 <!---
