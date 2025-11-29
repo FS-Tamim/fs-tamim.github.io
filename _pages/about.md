@@ -33,7 +33,7 @@ Previously, I earned my M.Sc. and B.Sc. in Computer Science and Engineering from
 
 <b>Contact: 📧</b> [<font color= "#990033" >fstamim9@gmail.com</font>](fstamim9@gmail.com)
 
-<b>My latest: </b> [<a href="https://drive.google.com/file/d/1kbe6oFGo6NcFUgN-SXyl2XiUdkep85un/view?usp=sharing"><font color="#990033">Resume</font></a>]
+<b>My latest: </b> [<a href="https://drive.google.com/file/d/1KLxo9yFKQuzWY8fA57siI1U1rK7ZLMEG/view?usp=sharing"><font color="#990033">Resume</font></a>]
 
 
 <!---
