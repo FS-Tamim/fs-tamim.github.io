@@ -104,35 +104,35 @@ I am also pursuing my M.Sc. from CUET . My research interest lies in the interse
 -->
 </pre>
 </div>
-
+<!---
 ## <font color="#00cc66"> Academic Service </font> 
 Program Committee Member/Reviewer for, 
   * *Conferences:* ACL-[23, 24, 25], EMNLP-[23, 24, 25], NAACL-24, ACL Rolling Review, ICWSM-24, LREC-[22, 24], COLING-25
   * *Journals:* TALLIP, IEEE Access, Scientific Reports, TCSS, LREV
-
+<!---
 ## <font color="#00cc66"> NLP Resources </font>   
 List of few books, courses and blog posts that I find really helpfull.
-
+<!---
 * **Advices**
    * Collection of Advices [[link]](http://taoxie.cs.illinois.edu/advice.htm)
    * Advice for Researchers and Students [[link]](https://homes.cs.washington.edu/~mernst/advice/#all-students)
    * Career advice by [[Andrew Ng]](https://www.youtube.com/watch?v=733m6qBH-jI&t=655s&ab_channel=stanfordonline)
    * Advice for Research Students [[Jason Eisner]](https://www.cs.jhu.edu/~jason/advice/)
-
+<!---
 * **Books**
    * Speech and Language Processing [[link]](https://web.stanford.edu/~jurafsky/slp3/)
    * Machine Learning with TensorFlow [[link]](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition)
    * Deep Learning with Python [[link]](https://www.manning.com/books/deep-learning-with-python)
    * Natural Language Processing in Action [[link]](https://www.manning.com/books/natural-language-processing-in-action)
    * Deep Learning [[link]](https://www.deeplearningbook.org/)
-
+<!---
 * **Courses**
    * CMU Advanced NLP course [[Advanced NLP]](http://www.phontron.com/class/anlp2021/index.html)   
    * Deep Learning Specialization (all courses) [[link]](https://www.coursera.org/specializations/deep-learning)
    * NTU NLP course [[Deep NLP]](https://ntunlpsg.github.io/ce7455_deep-nlp-20/)
    * TensorFlow Specialization [[DeepLearning.AI]](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
    * Natural Language Processing with Deep Learning [[CS224n]](http://web.stanford.edu/class/cs224n/)
-
+<!---
 * **Follow**
    * ACL Year-Round Mentorship [[Link]](https://mentorship.aclweb.org/Home.html)   
    * Awesome illustrations of [[Jay Alammar]](http://jalammar.github.io/).
