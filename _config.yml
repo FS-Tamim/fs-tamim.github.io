@@ -82,14 +82,14 @@ analytics:
 # Site Author
 author:
   name             : "Fahim Shakil Tamim"
-  avatar           : "sharif-emnlp.png"
-  bio              : "Graduate student at Dartmouth CS. Interested to apply deep learning to understand natural language."
-  location         : "Hanover, New Hampshire"
+  avatar           : "tamim_formal_image_2021.jpeg"
+  bio              : "Lecturer, Department of CSE, IUBAT"
+  location         : "Uttara, Dhaka"
   employer         : #"Lecturer at Dept. of CSE, CUET."
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=TBBRv2wAAAAJ&view_op=list_works&authuser=1&sortby=pubdate"
-  email            : "omar.sharif1303@gmail.com"
-  researchgate     :  "https://www.researchgate.net/profile/Omar-Sharif-5"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=35u_dC4AAAAJ&view_op=list_works&sortby=pubdate"
+  email            : "fstamim9@gmail.com"
+  researchgate     :  "https://www.researchgate.net/profile/Fahim-Tamim-3"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "omar-sharif"
+  github           : "FS-Tamim"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "omar1303"
+  linkedin         : "fahim-shakil-tamim"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -115,7 +115,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  dblp             : "https://www.semanticscholar.org/author/Omar-Sharif/2073472600"
+  # dblp             : "https://www.semanticscholar.org/author/Omar-Sharif/2073472600"
   wikipedia        :
 
 
