@@ -1,13 +1,8 @@
 ---
-title: "Research Grants"
+title: ""
 excerpt: ""
 author_profile: true
 permalink: /achievements/
-
----
- * <b><font color= "#737373" >OpenAI Researcher Access Program</font></b>(2024): $5,000 API credit to assess OpenAI models on human-centric NLP tasks.
- * <b><font color= "#737373" >ICT division Bangladesh research grant </font></b>(2020-2021): 1000K BDT
- * <b><font color= "#737373" >CUET IT business incubator research grant </font></b>(2019-2020): 400K BDT
 
 ## <font color="#00cc66"> Technical Skills </font>
 
@@ -49,44 +44,57 @@ permalink: /achievements/
 </ul>
 
 
-## <font color="#00cc66"> Leadership </font>
+## <font color="#00cc66"> Activities & Leadership </font>
 
 <ul style="list-style-type: none; padding-left: 0; font-family: Arial, sans-serif;">
 
-  <li style="margin-bottom: 10px;">
+  <!-- COLING 2025 -->
+  <li style="margin-bottom: 15px;">
+    <b><span style="color:#555555;">Workshop on Detecting AI Generated Content at COLING 2025</span></b><br>
+    <span style="color:#2E8B57; font-weight:bold;">Program Committee</span><br>
+    <span style="color:#777777;">2025 • Abu Dhabi, UAE</span>
+  </li>
+
+  <!-- CUET Computer Club -->
+  <li style="margin-bottom: 15px;">
+    <b><span style="color:#555555;">CUET Computer Club</span></b><br>
+    <span style="color:#2E8B57; font-weight:bold;">General Secretary</span><br>
+    <span style="color:#777777;">2022–2023 • CUET</span>
+  </li>
+
+  <!-- Remians' Association of CUET -->
+  <li style="margin-bottom: 15px;">
     <b><span style="color:#555555;">Remians' Association of CUET</span></b><br>
-    <span style="color:#2E8B57; font-weight:bold;">General Secretary</span>
+    <span style="color:#2E8B57; font-weight:bold;">General Secretary</span><br>
+    <span style="color:#777777;">2022–2023 • CUET</span>
   </li>
 
-  <li style="margin-bottom: 10px;">
+  <!-- Notredemian Association of CUET -->
+  <li style="margin-bottom: 15px;">
     <b><span style="color:#555555;">Notredemian Association of CUET</span></b><br>
-    <span style="color:#2E8B57; font-weight:bold;">Joint General Secretary</span>
+    <span style="color:#2E8B57; font-weight:bold;">Joint General Secretary</span><br>
+    <span style="color:#777777;">2022–2023 • CUET</span>
   </li>
 
-  <li style="margin-bottom: 10px;">
+  <!-- Green for Peace -->
+  <li style="margin-bottom: 15px;">
     <b><span style="color:#555555;">Green for Peace</span></b><br>
-    <span style="color:#2E8B57; font-weight:bold;">Archive Secretary</span>
+    <span style="color:#2E8B57; font-weight:bold;">Archive Secretary</span><br>
+    <span style="color:#777777;">2022–2023 • CUET</span>
   </li>
 
-  <li style="margin-bottom: 10px;">
-    <b><span style="color:#555555;">CUET CSE FEST 2022</span></b><br>
-    <span style="color:#2E8B57; font-weight:bold;">Organizing Secretary</span>
-  </li>
-
-  <li style="margin-bottom: 10px;">
+  <!-- Class Representative -->
+  <li style="margin-bottom: 15px;">
     <b><span style="color:#555555;">CSE Department, CUET</span></b><br>
-    <span style="color:#2E8B57; font-weight:bold;">Class Representative</span>
+    <span style="color:#2E8B57; font-weight:bold;">Class Representative</span><br>
+    <span style="color:#777777;">2019–2023 • CSE, CUET</span>
+  </li>
+
+  <!-- Additional Department Entry (2022) -->
+  <li style="margin-bottom: 15px;">
+    <b><span style="color:#555555;">CSE Department, CUET</span></b><br>
+    <span style="color:#2E8B57; font-weight:bold;">(2022)</span><br>
+    <span style="color:#777777;">CSE, CUET</span>
   </li>
 
 </ul>
-
-
-## <font color="#00cc66"> Co-curricular</font>
-   * Organized [*<font color="#ff6633"> Real-Info workshop</font>*](https://sites.google.com/view/real-info-2024) at ICWSM-2024.
-   * Organized CUET CSE Fest 2017, 2018, 2019.
-   * Organized CUET National Collegiate Programming Contest 2017.
-   * Champion of CUET Teachers Association Football Tournament 2019.
-   * Champion of CUET Football League 2018, 2019.
-   * Champion of Intra Hall Badminton Tournament 2017.
-   * Runner-up of Intra Hall Badminton Tournament 2016.
-   * Runner-up of Inter University Volleyball Tournament 2017.
