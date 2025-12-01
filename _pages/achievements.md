@@ -3,6 +3,7 @@ title: "Achievements"
 excerpt: ""
 author_profile: true
 permalink: /achievements/
+---
 
 ## <font color="#00cc66"> Technical Skills </font>
 
