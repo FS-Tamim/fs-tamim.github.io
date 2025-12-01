@@ -43,20 +43,35 @@ Position: <b>1<sup>st</sup>/48</b>
 
 
 ## <font color="#00cc66"> Work Experience </font>
- **Research Intern <font color="#541A75">[Mar 2025 - June 2025]</font>**   
- *Amazon, NYC*
+ <p>
+  <strong>IUBAT - International University of Business Agriculture and Technology</strong><br>
+  <em>Lecturer, Department of Computer Science and Engineering</em><br>
+  01/2024 – present, Dhaka, Bangladesh<br><br>
 
- **Graduate Research/Teaching Assistant <font color="#541A75">[Sep 2022 - Ongoing]</font>**   
- *Departmet of Computer Science, Dartmouth College*
+  • Conduct engaging lectures and provide academic consultation and mentorship to undergraduate Computer Science and Engineering students, following the Outcome-Based Education (OBE) framework.<br>
+  • Supervise thesis and practicum students by guiding them in research methodologies, project management, and academic writing, while applying Continuous Quality Improvement (CQI) practices.<br>
+  • Design and implement curriculum improvements to enhance learning outcomes, strengthen student engagement, and ensure continuous enhancement of teaching quality through OBE and CQI processes.
+</p>
 
- **Assistant Professor (on leave) <font color="#541A75">[July 2022 - Aug 2022]</font>**   
- *Departmet of Computer Science and Engineering, CUET*
- 
- **Lecturer <font color="#541A75">[July 2019 - June 2022]</font>**   
- *Department of Computer Science and Engineering, CUET*
+<p>
+  <strong>CUET NLP LAB</strong><br>
+  <em>Research Fellow</em><br>
+  02/2022 – present, Chittagong, Bangladesh<br><br>
 
- **Research Assistant <font color="#541A75">[Dec 2018 - June 2019]</font>**    
- *CUET NLP Lab*
+  • Developing benchmark Bengali datasets and publishing research to advance low-resource NLP.<br>
+  • Exploring cutting-edge language technologies, including Large Language Models, multimodal systems, and generative NLP, and contributing to publications in these areas.<br>
+  • Participating in shared-task competitions and providing mentorship to junior researchers in NLP, ML, and DL directions.
+</p>
+
+<p>
+  <strong>Robi Axiata Limited | Red Dot Digital</strong><br>
+  <em>Industrial Attachment Trainee</em><br>
+  10/2022 – 11/2022, Dhaka, Bangladesh<br><br>
+
+  • Exposure to platforms like My Robi App, Binge, CRM, HRMS, SIM registration, and MFS.<br>
+  • Gained hands-on experience in software workflows, teamwork, and professional communication.
+</p>
+
 
 ## <font color="#00cc66"> Certifications </font>
 
