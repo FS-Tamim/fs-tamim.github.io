@@ -10,7 +10,7 @@ permalink: /achievements/
 <span style="color:rgb(201, 76, 76)">Proficient</span>             C, C++, Python
 <span style="color:rgb(201, 76, 76)">Moderate</span>               PyTorch, Java, JavaScript, MySQL, GIT
 <span style="color:rgb(201, 76, 76)">Libraries</span>              TensorFlow, Keras, NLTK, Scikit‐learn, Gensim, Pandas MERN Stack
-<span style="color:rgb(201, 76, 76)">Frameworks & Tools</span>      Jupyter, Git, Latex Tensorflow openCVx   
+<span style="color:rgb(201, 76, 76)">Frameworks & Tools</span>     Jupyter, Git, Latex Tensorflow openCVx   
 </pre>
 
 
