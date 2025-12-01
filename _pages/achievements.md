@@ -51,23 +51,35 @@ permalink: /achievements/
 
 ## <font color="#00cc66"> Leadership </font>
 
-**CUET NLP Lab**   
-<b><font color= "#737373" >Mentor</font></b>  [Aug 2019 - Aug 2022] 
+<ul style="list-style-type: none; padding-left: 0; font-family: Arial, sans-serif;">
 
-  * Meet weekly with the undergrads working under CUET NLP lab. Discuss research problems, share ideas and track their progress.
-  * Teach students the basics of deep learning and NLP.
+  <li style="margin-bottom: 10px;">
+    <b><span style="color:#555555;">Remians' Association of CUET</span></b><br>
+    <span style="color:#2E8B57; font-weight:bold;">General Secretary</span>
+  </li>
 
-**Competitive Programming Club, CUET**    
-<b><font color= "#737373" >Coach</font></b>  [Jan 2019 - Aug 2022] 
+  <li style="margin-bottom: 10px;">
+    <b><span style="color:#555555;">Notredemian Association of CUET</span></b><br>
+    <span style="color:#2E8B57; font-weight:bold;">Joint General Secretary</span>
+  </li>
 
-  * Teach students advanced data structures, number theory, and algorithms.
-  * Organize contests, keep track of individual performance and form up teams. 
+  <li style="margin-bottom: 10px;">
+    <b><span style="color:#555555;">Green for Peace</span></b><br>
+    <span style="color:#2E8B57; font-weight:bold;">Archive Secretary</span>
+  </li>
 
-**ACM Student Chapter, CUET**    
-<b><font color= "#737373" >Vice Chair</font></b>  [Mar 2021 - Aug 2022] 
+  <li style="margin-bottom: 10px;">
+    <b><span style="color:#555555;">CUET CSE FEST 2022</span></b><br>
+    <span style="color:#2E8B57; font-weight:bold;">Organizing Secretary</span>
+  </li>
 
-  * Lead a team of 30+ active members. Plan and assess the growth of the chapter.
-  * Arrange research seminars, talks and workshops on different trending topics. 
+  <li style="margin-bottom: 10px;">
+    <b><span style="color:#555555;">CSE Department, CUET</span></b><br>
+    <span style="color:#2E8B57; font-weight:bold;">Class Representative</span>
+  </li>
+
+</ul>
+
 
 ## <font color="#00cc66"> Co-curricular</font>
    * Organized [*<font color="#ff6633"> Real-Info workshop</font>*](https://sites.google.com/view/real-info-2024) at ICWSM-2024.
