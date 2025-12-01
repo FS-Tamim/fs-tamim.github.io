@@ -5,26 +5,6 @@ author_profile: true
 permalink: /education/
 
 ---
-
-**Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)**   
-*Bachelors in Computer Science and Engineering*   
-Study Period: <b>2018 - 22023</b>
-CGPA 3.79/4.00  (With honors)
-Position: 9th/126
-Recipient of the Dean’s Award
-Advisor: [Prof. Moshiul Hoque](https://scholar.google.com/citations?hl=en&user=srYxYhcAAAAJ&view_op=list_works&sortby=pubdate) 
-
-**Notre Dame College**
-*Higher Secondary School Certificate (HSC)*
-Study Period: <b>2015 — 2017</b>
-GPA: 5.00 / 5.00
-Achievement: Received the <b>Talent Pool</b> Board Scholarship from the Dhaka Board
-
-**Dhaka Residential Model College**
-*Secondary School Certificate (SSC)*
-Study Period: <b>2013 — 2015</b>
-GPA: 5.00 / 5.00
-
 <p>
   <strong>Chittagong University of Engineering and Technology (CUET)</strong><br>
   <em>Bachelors in Computer Science and Engineering</em><br>
