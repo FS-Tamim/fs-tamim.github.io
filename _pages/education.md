@@ -25,6 +25,35 @@ Achievement: Received the <b>Talent Pool</b> Board Scholarship from the Dhaka Bo
 Study Period: <b>2013 — 2015</b>
 GPA: 5.00 / 5.00
 
+<p>
+  <strong>Chittagong University of Engineering and Technology (CUET)</strong><br>
+  <em>Bachelors in Computer Science and Engineering</em><br>
+  Study Period: <b>2018 - 22023</b><br>
+  CGPA 3.79/4.00 (With honors)<br>
+  Position: 9th/126<br>
+  Recipient of the Dean’s Award<br>
+  Advisor:
+  <a href="https://scholar.google.com/citations?hl=en&user=srYxYhcAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">
+    Prof. Moshiul Hoque
+  </a>
+</p>
+
+<p>
+  <strong>Notre Dame College</strong><br>
+  <em>Higher Secondary School Certificate (HSC)</em><br>
+  Study Period: <b>2015 — 2017</b><br>
+  GPA: 5.00 / 5.00<br>
+  Achievement: Received the <b>Talent Pool</b> Board Scholarship from the Dhaka Board
+</p>
+
+<p>
+  <strong>Dhaka Residential Model College</strong><br>
+  <em>Secondary School Certificate (SSC)</em><br>
+  Study Period: <b>2013 — 2015</b><br>
+  GPA: 5.00 / 5.00
+</p>
+
+
 <!---
 CGPA: <b>3.90/4.00</b>  
 Position: <b>1<sup>st</sup>/103</b>
