@@ -30,47 +30,26 @@ Solved 1000+ competitive programming problems in different online platforms as p
 <span style="color:rgb(201, 76, 76)">CS Academy</span>     Solved 50+ problems
 </pre> --> -->
 
-## <font color="#00cc66"> Leadership </font>
-
-<style>
-  .role-box {
-    border-left: 4px solid #4A90E2;
-    padding: 10px 15px;
-    margin: 12px 0;
-    background: #f7f9fc;
-    border-radius: 6px;
-  }
-  .role-title {
-    font-weight: bold;
-    font-size: 1.05rem;
-    color: #1a3d7c;
-  }
-  .role-position {
-    font-style: italic;
-    color: #333;
-  }
-</style>
-
-<div class="role-box">
-  <div class="role-title">Remians' Association of CUET</div>
-  <div class="role-position">General Secretary</div>
+<div style="border-left:4px solid #4A90E2; padding:10px 15px; margin:12px 0; background:#f7f9fc; border-radius:6px;">
+  <div style="font-weight:bold; font-size:1.05rem; color:#1a3d7c;">Remians' Association of CUET</div>
+  <div style="font-style:italic; color:#333;">General Secretary</div>
 </div>
 
-<div class="role-box">
-  <div class="role-title">Notredemian Association of CUET</div>
-  <div class="role-position">Joint General Secretary</div>
+<div style="border-left:4px solid #4A90E2; padding:10px 15px; margin:12px 0; background:#f7f9fc; border-radius:6px;">
+  <div style="font-weight:bold; font-size:1.05rem; color:#1a3d7c;">Notredemian Association of CUET</div>
+  <div style="font-style:italic; color:#333;">Joint General Secretary</div>
 </div>
 
-<div class="role-box">
-  <div class="role-title">Green for Peace</div>
-  <div class="role-position">Archive Secretary</div>
+<div style="border-left:4px solid #4A90E2; padding:10px 15px; margin:12px 0; background:#f7f9fc; border-radius:6px;">
+  <div style="font-weight:bold; font-size:1.05rem; color:#1a3d7c;">Green for Peace</div>
+  <div style="font-style:italic; color:#333;">Archive Secretary</div>
 </div>
 
-<div class="role-box">
-  <div class="role-title">CUET CSE FEST 2022</div>
-  <div class="role-position">Organizing Secretary</div>
+<div style="border-left:4px solid #4A90E2; padding:10px 15px; margin:12px 0; background:#f7f9fc; border-radius:6px;">
+  <div style="font-weight:bold; font-size:1.05rem; color:#1a3d7c;">CUET CSE FEST 2022</div>
+  <div style="font-style:italic; color:#333;">Organizing Secretary</div>
 </div>
 
-<div class="role-box">
-  <div class="role-title">Class Representative @ CSE CUET</div>
+<div style="border-left:4px solid #4A90E2; padding:10px 15px; margin:12px 0; background:#f7f9fc; border-radius:6px;">
+  <div style="font-weight:bold; font-size:1.05rem; color:#1a3d7c;">Class Representative @ CSE CUET</div>
 </div>
