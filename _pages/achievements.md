@@ -52,50 +52,53 @@ permalink: /achievements/
   <!-- COLING 2025 -->
   <li style="margin-bottom: 15px;">
     <b><span style="color:#555555;">Workshop on Detecting AI Generated Content at COLING 2025</span></b><br>
-    <span style="color:#2E8B57; font-weight:italic;">Program Committee</span><br>
-    <span style="color:#777777;">2025 • Abu Dhabi, UAE</span>
+    <span style="color:#777777; font-style:italic;">Program Committee</span><br>
+    <span style="color:#999999;">2025 • Abu Dhabi, UAE</span>
   </li>
 
   <!-- CUET Computer Club -->
   <li style="margin-bottom: 15px;">
     <b><span style="color:#555555;">CUET Computer Club</span></b><br>
-    <span style="color:#2E8B57; font-weight:bold;">General Secretary</span><br>
-    <span style="color:#777777;">2022–2023 • CUET</span>
+    <span style="color:#777777; font-style:italic;">General Secretary</span><br>
+    <span style="color:#999999;">2022–2023 • CUET</span>
   </li>
 
   <!-- Remians' Association of CUET -->
   <li style="margin-bottom: 15px;">
     <b><span style="color:#555555;">Remians' Association of CUET</span></b><br>
-    <span style="color:#2E8B57; font-weight:bold;">General Secretary</span><br>
-    <span style="color:#777777;">2022–2023 • CUET</span>
+    <span style="color:#777777; font-style:italic;">General Secretary</span><br>
+    <span style="color:#999999;">2022–2023 • CUET</span>
   </li>
 
   <!-- Notredemian Association of CUET -->
   <li style="margin-bottom: 15px;">
     <b><span style="color:#555555;">Notredemian Association of CUET</span></b><br>
-    <span style="color:#2E8B57; font-weight:bold;">Joint General Secretary</span><br>
-    <span style="color:#777777;">2022–2023 • CUET</span>
+    <span style="color:#777777; font-style:italic;">Joint General Secretary</span><br>
+    <span style="color:#999999;">2022–2023 • CUET</span>
   </li>
 
   <!-- Green for Peace -->
   <li style="margin-bottom: 15px;">
     <b><span style="color:#555555;">Green for Peace</span></b><br>
-    <span style="color:#2E8B57; font-weight:bold;">Archive Secretary</span><br>
-    <span style="color:#777777;">2022–2023 • CUET</span>
+    <span style="color:#777777; font-style:italic;">Archive Secretary</span><br>
+    <span style="color:#999999;">2022–2023 • CUET</span>
   </li>
 
   <!-- Class Representative -->
   <li style="margin-bottom: 15px;">
     <b><span style="color:#555555;">CSE Department, CUET</span></b><br>
-    <span style="color:#2E8B57; font-weight:bold;">Class Representative</span><br>
-    <span style="color:#777777;">2019–2023 • CSE, CUET</span>
+    <span style="color:#777777; font-style:italic;">Class Representative</span><br>
+    <span style="color:#999999;">2019–2023 • CSE, CUET</span>
   </li>
 
   <!-- Additional Department Entry (2022) -->
   <li style="margin-bottom: 15px;">
     <b><span style="color:#555555;">CSE Department, CUET</span></b><br>
-    <span style="color:#2E8B57; font-weight:bold;">(2022)</span><br>
-    <span style="color:#777777;">CSE, CUET</span>
+    <span style="color:#777777; font-style:italic;">(2022)</span><br>
+    <span style="color:#999999;">CSE, CUET</span>
   </li>
+
+</ul>
+
 
 </ul>
