@@ -8,7 +8,10 @@ permalink: /education/
 
 **Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)**   
 *Bachelors in Computer Science and Engineering*   
-Study Period: <b>2018 - 22023</b>   
+Study Period: <b>2018 - 22023</b>
+CGPA 3.79/4.00  (With honors)
+Position: 9th/126
+Recipient of the Dean’s Award
 Advisor: [Prof. Moshiul Hoque](https://scholar.google.com/citations?hl=en&user=srYxYhcAAAAJ&view_op=list_works&sortby=pubdate) 
 
 **Notre Dame College**
