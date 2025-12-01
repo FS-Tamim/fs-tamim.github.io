@@ -52,7 +52,7 @@ permalink: /achievements/
   <!-- COLING 2025 -->
   <li style="margin-bottom: 15px;">
     <b><span style="color:#555555;">Workshop on Detecting AI Generated Content at COLING 2025</span></b><br>
-    <span style="color:#2E8B57; font-weight:bold;">Program Committee</span><br>
+    <span style="color:#2E8B57; font-weight:italic;">Program Committee</span><br>
     <span style="color:#777777;">2025 • Abu Dhabi, UAE</span>
   </li>
 
