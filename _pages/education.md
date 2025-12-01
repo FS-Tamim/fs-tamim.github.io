@@ -11,6 +11,17 @@ permalink: /education/
 Study Period: <b>JANUARY 2018 - jULY 22023</b>   
 Advisor: [Prof. Moshiul Hoque](https://scholar.google.com/citations?hl=en&user=srYxYhcAAAAJ&view_op=list_works&sortby=pubdate) 
 
+**Notre Dame College**
+*Higher Secondary School Certificate (HSC)*
+Study Period: <b>2015 — 2017</b>
+GPA: 5.00 / 5.00
+Achievement: Received the <b>Talent Pool</b> Board Scholarship from the Dhaka Board
+
+**Dhaka Residential Model College**
+*Secondary School Certificate (SSC)*
+Study Period: <b>2013 — 2015</b>
+GPA: 5.00 / 5.00
+
 <!---
 CGPA: <b>3.90/4.00</b>  
 Position: <b>1<sup>st</sup>/103</b>
