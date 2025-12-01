@@ -46,8 +46,7 @@ Position: <b>1<sup>st</sup>/48</b>
  <p>
   <strong>IUBAT - International University of Business Agriculture and Technology</strong><br>
   <em>Lecturer, Department of Computer Science and Engineering</em><br>
-  01/2024 – present, Dhaka, Bangladesh<br><br>
-
+  01/2024 – present, Dhaka, Bangladesh<br>
   • Conduct engaging lectures and provide academic consultation and mentorship to undergraduate Computer Science and Engineering students, following the Outcome-Based Education (OBE) framework.<br>
   • Supervise thesis and practicum students by guiding them in research methodologies, project management, and academic writing, while applying Continuous Quality Improvement (CQI) practices.<br>
   • Design and implement curriculum improvements to enhance learning outcomes, strengthen student engagement, and ensure continuous enhancement of teaching quality through OBE and CQI processes.
@@ -56,8 +55,7 @@ Position: <b>1<sup>st</sup>/48</b>
 <p>
   <strong>CUET NLP LAB</strong><br>
   <em>Research Fellow</em><br>
-  02/2022 – present, Chittagong, Bangladesh<br><br>
-
+  02/2022 – present, Chittagong, Bangladesh<br>
   • Developing benchmark Bengali datasets and publishing research to advance low-resource NLP.<br>
   • Exploring cutting-edge language technologies, including Large Language Models, multimodal systems, and generative NLP, and contributing to publications in these areas.<br>
   • Participating in shared-task competitions and providing mentorship to junior researchers in NLP, ML, and DL directions.
@@ -66,8 +64,7 @@ Position: <b>1<sup>st</sup>/48</b>
 <p>
   <strong>Robi Axiata Limited | Red Dot Digital</strong><br>
   <em>Industrial Attachment Trainee</em><br>
-  10/2022 – 11/2022, Dhaka, Bangladesh<br><br>
-
+  10/2022 – 11/2022, Dhaka, Bangladesh<br>
   • Exposure to platforms like My Robi App, Binge, CRM, HRMS, SIM registration, and MFS.<br>
   • Gained hands-on experience in software workflows, teamwork, and professional communication.
 </p>
