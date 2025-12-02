@@ -45,7 +45,7 @@ permalink: /research/
 <b>To get the full list of my papers please check: </b>[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=35u_dC4AAAAJ&view_op=list_works&sortby=pubdate) / [[Semantic Scholar]](https://www.semanticscholar.org/author/Fahim-Shakil-Tamim/2287982856)
 
 ## <font > Works in Progress </font> 
-<font color="#CE507E">MuTHER: Multilabel Textual Hostility Detection in1
+<font color="#CE507E">MuTHER: Multilabel Textual Hostility Detection in
 Social Media Using Ensemble of Transformers</font>     
 *<font > Submitted to Applied soft Computing  </font>*  
 <font color="#CE507E">CLIMB: A Hierarchical Classification
