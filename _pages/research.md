@@ -47,11 +47,11 @@ permalink: /research/
 ## <font > Works in Progress </font> 
 <font color="#CE507E">MuTHER: Multilabel Textual Hostility Detection in1
 Social Media Using Ensemble of Transformers</font>     
-*<font > Submitted  </font>*  
+*<font > Submitted to Applied soft Computing  </font>*  
 <font color="#CE507E">CLIMB: A Hierarchical Classification
 Framework for Multimodal Commercial
 Contents in Bengali</font>     
-*<font > Submitted  </font>*  
+*<font > Submitted to IEEE Access  </font>*  
 
 
 ## <font> Conferences </font>
