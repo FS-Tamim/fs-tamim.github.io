@@ -22,7 +22,7 @@ permalink: /research/
     line-height: 1.8;
     color: #333;
   ">
-    <li style="margin-bottom: 0.4rem;">NLP for Social Computing</li>
+    <li style="margin-bottom: 0.4rem;">NLP for Social Computing(hostility, violence, aggression, depression, sarcasm, fake news, and sentiment)</li>
     <li style="margin-bottom: 0.4rem;">Multimodal NLP</li>
     <li style="margin-bottom: 0.4rem;">Low-Resource, Multilingual & Cross-Lingual NLP</li>
     <li style="margin-bottom: 0.4rem;">Cognition & Reasoning in LLMs</li>
