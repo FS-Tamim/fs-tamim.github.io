@@ -45,13 +45,18 @@ permalink: /research/
 <b>To get the full list of my papers please check: </b>[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=35u_dC4AAAAJ&view_op=list_works&sortby=pubdate) / [[Semantic Scholar]](https://www.semanticscholar.org/author/Fahim-Shakil-Tamim/2287982856)
 
 ## <font > Works in Progress </font> 
-<font color="#993333">REGen: A Reliable Evaluation Framework for Generative Event Argument Extraction</font>     
-*<font > Accepted </font>*  
+<font color="#CE507E">MuTHER: Multilabel Textual Hostility Detection in1
+Social Media Using Ensemble of Transformers</font>     
+*<font > Submitted  </font>*  
+<font color="#CE507E">CLIMB: A Hierarchical Classification
+Framework for Multimodal Commercial
+Contents in Bengali</font>     
+*<font > Submitted  </font>*  
 
 
 ## <font> Conferences </font>
 
-<font color="#993333">REGen: A Reliable Evaluation Framework for Generative Event Argument Extraction</font>     
+<font color="#">REGen: A Reliable Evaluation Framework for Generative Event Argument Extraction</font>     
 <b><font color="#2d862d">Omar Sharif</font></b>, Joseph Gatto, Madhusudan Basak, Sarah Preum <br>
 [<font color="#4796C9"> [EMNLP-2025 Findings] </font>](https://2025.emnlp.org/) / [<font color="#4796C9">[Paper] </font>](https://arxiv.org/abs/2502.16838) / [<font color="#4796C9"> [Code] </font>](https://github.com/Omar-Sharif/REGen) 
 
