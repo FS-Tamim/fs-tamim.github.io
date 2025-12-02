@@ -11,7 +11,7 @@ permalink: /research/
     margin-bottom: 1.5rem;
     color: #444;
   ">
-    My broad research interests are in <strong>Natural Language Processing (NLP)</strong>.  
+    My broad research interests are in <strong>Natural Language Processing (NLP)</strong>,<strong> Deep Learning</strong>.   
     Some of the areas I am working on are:
   </p>
 
