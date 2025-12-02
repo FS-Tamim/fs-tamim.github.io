@@ -51,7 +51,8 @@ I am also pursuing my M.Sc. from CUET . My research interest lies in the interse
 ## <font color="#00cc66"> Updates </font>
 <div style="height: 400px; overflow: auto;">
 <pre>
-<span style="color:rgb(201, 76, 76)">13 Jan,23</span> Joined <a href="https://iubat.edu/">IUBAT</a>  as a Lecturer in the Department of CSE
+<span style="color:rgb(201, 76, 76)">1 Dec,25</span> Accepted 4 papers at <a href="https://iccit.org.bd/2025/home/">ICCIT2025</a>  as a Lecturer in the Department of CSE
+<span style="color:rgb(201, 76, 76)">13 Jan,23</span> Joined <a href="https://iubat.edu">IUBAT</a>  as a Lecturer in the Department of CSE
 <!-- <span style="color:rgb(201, 76, 76)">19 Aug,25</span>    Successfully passed my RPE/Qual exam. Thanks to my committee <a href="https://www.cs.dartmouth.edu/~soroush/">Soroush Vosoughi</a>, <a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a>, and <a href="https://persist-lab.github.io/portfolio/">Sarah Preum</a>.
 <span style="color:rgb(201, 76, 76)">5 Aug,25</span>     Accepted <a href="https://aaai.org/conference/aaai/aaai-26/">AAAI-26</a> program committee invitation.
 <span style="color:rgb(201, 76, 76)">9 June,25</span>    Thrilled to receive <b>Outstanding TA Award</b> for my teaching contribution at <a href="https://web.cs.dartmouth.edu/">Dartmouth CS</a>.
