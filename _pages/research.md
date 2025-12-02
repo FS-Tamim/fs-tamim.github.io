@@ -22,7 +22,7 @@ permalink: /research/
     line-height: 1.8;
     color: #333;
   ">
-    <li style="margin-bottom: 0.4rem;">NLP for Social Computing(hostility, violence, aggression, depression, sarcasm, fake news, and sentiment)</li>
+    <li style="margin-bottom: 0.4rem;">NLP for Social Computing (Hostility, Violence, Aggression, Depression, Sarcasm, Fake news, and Sentiment)</li>
     <li style="margin-bottom: 0.4rem;">Multimodal NLP</li>
     <li style="margin-bottom: 0.4rem;">Low-Resource, Multilingual & Cross-Lingual NLP</li>
     <li style="margin-bottom: 0.4rem;">Cognition & Reasoning in LLMs</li>
@@ -42,7 +42,7 @@ permalink: /research/
 
 # <font color="#00cc66"> Publications </font> 
 
-<b>To get the full list of my papers please check: </b>[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=TBBRv2wAAAAJ&view_op=list_works&authuser=1&sortby=pubdate) / [[Semantic Scholar]](https://www.semanticscholar.org/author/Omar-Sharif/2073472600)
+<b>To get the full list of my papers please check: </b>[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=35u_dC4AAAAJ&view_op=list_works&sortby=pubdate) / [[Semantic Scholar]]()
 
 ## <font > Works in Progress </font> 
 <font color="#993333">REGen: A Reliable Evaluation Framework for Generative Event Argument Extraction</font>     
