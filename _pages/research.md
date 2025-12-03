@@ -155,7 +155,7 @@ Kawsar Ahmed, Md Osama, <b><font color="#2d862d">Omar Sharif</font></b>, Eftekha
 <font color="#993333">Tackling Cyber-Aggression: Identification and Fine-Grained Categorization of Aggressive Texts on Social Media using Weighted Ensemble of Transformers  </font>                                            
 <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
 [<font color="#4796C9"> [Neurocomputing (IF: 6.50, HI:143)]</font>](https://www.journals.elsevier.com/neurocomputing) / [<font color="#4796C9">[Paper]</font>](https://www.sciencedirect.com/science/article/abs/pii/S0925231221018567) / [<font color="#4796C9">[Dataset]</font>](https://github.com/omar-sharif03/BAD-Bangla-Aggressive-Text-Dataset)
-
+<!--
 <font color="#993333">Information Needs for Opioid Use Disorder Treatment Using Buprenorphine Product: Qualitative Analysis of Suboxone-Focused Reddit Data</font>                                            
 Madhusudan Basak <b><font color="#2d862d">Omar Sharif</font></b>, et al.,    
 [<font color="#4796C9"> [JMIR (IF: 6.0]</font>](https://www.jmir.org/) / [<font color="#4796C9">[Paper]</font>](https://www.jmir.org/2025/1/e68886/)
@@ -178,7 +178,7 @@ Madhusudan Basak <b><font color="#2d862d">Omar Sharif</font></b>, et al.,
    MD. Asif Iqbal, Avishek Das, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Iqbal H.Sarker   
    [<font color="#4796C9"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-022-01028-w)
 -->
-
+<!--
 ## <font > Workshops </font>
  
   <font color="#993333"> Multilingual Code-Mixed Hope Speech Detection using Cross-lingual Representation Learner</font>  
