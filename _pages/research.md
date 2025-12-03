@@ -59,6 +59,20 @@ Contents in Bengali</font>
 <b><font color="#41c041"><i>Fahim Shakil Tamim</i></font></b>, Zaima Sartaj Taheri, Mohammed Moshiul Hoque<br> 
 [<font color="#0000FF">ICCIT 2023</font>] / [<font color="#0000FF">Paper</font>]
 
+<font color="#C33C3C">Detecting violence inciting texts based on pre-trained transformers</font>
+<b><font color="#41c041"><i>Fahim Shakil Tamim</i></font></b>, Sourav Saha, Avishek Das, and Mohammed Moshiul Hoque<br> 
+[<font color="#0000FF">ICCIT 2023</font>] / [<font color="#0000FF">Paper</font>]
+
+<font color="#C33C3C">Sentiment classification of multi-modal memes using deep learning and transformer techniques</font>
+<b>Tanzin Ahammad, Zaima Sartaj Taheri, <font color="#41c041"><i>Fahim Shakil Tamim</i></font></b><br> 
+[<font color="#0000FF">COMPAS 2024</font>] / [<font color="#0000FF">Paper</font>]
+
+<font color="#C33C3C">An ensemble approach of transfer learning and vision transformer to identify covid-19 from chest x-rays</font>
+<b><font color="#41c041"><i>Fahim Shakil Tamim</i></font></b>, Zaima Sartaj Taheri, Sudipta Saha Niloy, Ashim Dey, and Annesha Das<br> 
+[<font color="#0000FF">ICAEEE 2024</font>] / [<font color="#0000FF">Paper</font>]
+
+
+
 <font color="#">REGen: A Reliable Evaluation Framework for Generative Event Argument Extraction</font>     
 <b><font color="#2d862d">Omar Sharif</font></b>, Joseph Gatto, Madhusudan Basak, Sarah Preum <br>
 [<font color="#4796C9"> [EMNLP-2025 Findings] </font>](https://2025.emnlp.org/) / [<font color="#4796C9">[Paper] </font>](https://arxiv.org/abs/2502.16838) / [<font color="#4796C9"> [Code] </font>](https://github.com/Omar-Sharif/REGen) 
