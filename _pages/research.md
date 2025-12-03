@@ -64,16 +64,25 @@ Contents in Bengali</font>
 [<font color="#0000FF">ICCIT 2023</font>] / [<font color="#0000FF">Paper</font>]
 
 <font color="#C33C3C">Sentiment classification of multi-modal memes using deep learning and transformer techniques</font>
-<b>Tanzin Ahammad, Zaima Sartaj Taheri, <font color="#41c041"><i>Fahim Shakil Tamim</i></font></b><br> 
+Tanzin Ahammad, Zaima Sartaj Taheri, <b><font color="#41c041"><i>Fahim Shakil Tamim</i></font></b><br> 
 [<font color="#0000FF">COMPAS 2024</font>] / [<font color="#0000FF">Paper</font>]
 
 <font color="#C33C3C">An ensemble approach of transfer learning and vision transformer to identify covid-19 from chest x-rays</font>
 <b><font color="#41c041"><i>Fahim Shakil Tamim</i></font></b>, Zaima Sartaj Taheri, Sudipta Saha Niloy, Ashim Dey, and Annesha Das<br> 
 [<font color="#0000FF">ICAEEE 2024</font>] / [<font color="#0000FF">Paper</font>]
 
+<font color="#C33C3C"> Mdc3: A novel multimodal dataset for commercial content classification in bengali</font>
+Anik Mahmud Shanto, MST Sanjida Jamal Priya,<b><font color="#41c041"><i>Fahim Shakil Tamim</i></font></b>,Mohammed Moshiul Hoque<br> 
+[<font color="#0000FF">NAACL 2025</font>] / [<font color="#0000FF">Paper</font>]
+
+<font color="#C33C3C">Optimizing sms spam detection with large language models and transformer architectures</font>
+Nazir Ahmed, ASM Shakil Ahamed,<b><font color="#41c041"><i>Fahim Shakil Tamim</i></font></b><br> 
+[<font color="#0000FF">ECCE 2023</font>] / [<font color="#0000FF">Paper</font>]
 
 
-<font color="#">REGen: A Reliable Evaluation Framework for Generative Event Argument Extraction</font>     
+
+
+<!-- <font color="#">REGen: A Reliable Evaluation Framework for Generative Event Argument Extraction</font>     
 <b><font color="#2d862d">Omar Sharif</font></b>, Joseph Gatto, Madhusudan Basak, Sarah Preum <br>
 [<font color="#4796C9"> [EMNLP-2025 Findings] </font>](https://2025.emnlp.org/) / [<font color="#4796C9">[Paper] </font>](https://arxiv.org/abs/2502.16838) / [<font color="#4796C9"> [Code] </font>](https://github.com/Omar-Sharif/REGen) 
 
@@ -114,7 +123,7 @@ Kawsar Ahmed, Md Osama, <b><font color="#2d862d">Omar Sharif</font></b>, Eftekha
   William Romano*, <b><font color="#2d862d">Omar Sharif*</font></b>, Madhusudan Basak, Joseph Gatto, Sarah Preum  
   [<font color="#4796C9"> [ICWSM-2024] </font>](https://www.icwsm.org/2024/index.html/index.html) / [<font color="#4796C9">[Paper] </font>](https://ojs.aaai.org/index.php/ICWSM/article/view/31391/33551)
 
-<!--
+<!-- -->
 
 <font color="#993333"> MemoSen: A Multimodal Dataset for Sentiment Analysis of Memes</font>  
   Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque  
