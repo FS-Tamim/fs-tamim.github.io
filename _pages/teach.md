@@ -8,8 +8,8 @@ permalink: /teach/
 
 Taught/TA-ed the following courses in CUET/Dartmouth. I conducted theory courses and lab sessions as a co-instructor. Created and graded weekly assignments, class tests and final exams. 
 
-| Role | Affiliation | Course Title | Class Size | Syllabus |
-|-- | ----          | --          | ----         | -----|
+| Role | Affiliation | Semister | Course Title | Class Size | Syllabus |
+|-- | ----          |--      | --          | ----         | -----|
 |Teaching assistant | Dartmouth | Machine Learning | 70 | [<font color= "#990033" >🎯[COSC-74/274]</font>](https://dartmouth.smartcatalogiq.com/current/orc/departments-programs-undergraduate/computer-science/cosc-computer-science-undergraduate/cosc-74/)|
 |Teaching assistant | Dartmouth | Topics in Applied Computer Science | 12 | [<font color= "#990033" >🎯[COSC-189]</font>](https://dartmouth.smartcatalogiq.com/en/current/orc/departments-programs-graduate/computer-science/cosc-computer-science/100/cosc-189/)|
 |Teaching assistant | Dartmouth | Machine Learning | 150 | [<font color= "#990033" >🎯[COSC-74/274]</font>](https://dartmouth.smartcatalogiq.com/current/orc/departments-programs-undergraduate/computer-science/cosc-computer-science-undergraduate/cosc-74/)|
