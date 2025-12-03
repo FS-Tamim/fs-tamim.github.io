@@ -45,17 +45,17 @@ permalink: /research/
 <b>To get the full list of my papers please check: </b>[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=35u_dC4AAAAJ&view_op=list_works&sortby=pubdate) / [[Semantic Scholar]](https://www.semanticscholar.org/author/Fahim-Shakil-Tamim/2287982856)
 
 ## <font > Works in Progress </font> 
-<font color="#472516">MuTHER: Multilabel Textual Hostility Detection in
+<font color="#C33C3C">MuTHER: Multilabel Textual Hostility Detection in
 Social Media Using Ensemble of Transformers</font>     
 *<font > Submitted to Applied soft Computing  </font>*  
-<font color="#472516">CLIMB: A Hierarchical Classification
+<font color="#C33C3C">CLIMB: A Hierarchical Classification
 Framework for Multimodal Commercial
 Contents in Bengali</font>     
 *<font > Submitted to IEEE Access  </font>*  
 
 
 ## <font> Conferences </font>
-<font color="#472516">Detecting Signs of Depression from Social Media Texts Using Generalized Autoregressive Pretraining Transformer Model</font>
+<font color="#C33C3C">Detecting Signs of Depression from Social Media Texts Using Generalized Autoregressive Pretraining Transformer Model</font>
 <b><font color="#41c041"><i>Fahim Shakil Tamim</i></font></b>, Zaima Sartaj Taheri, Mohammed Moshiul Hoque<br> 
 [<font color="#0000FF">ICCIT 2023</font>] / [<font color="#0000FF">Paper</font>]
 
