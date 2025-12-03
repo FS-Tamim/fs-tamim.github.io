@@ -125,33 +125,13 @@ Kawsar Ahmed, Md Osama, <b><font color="#2d862d">Omar Sharif</font></b>, Eftekha
 
 <!-- -->
 
-<font color="#993333"> MemoSen: A Multimodal Dataset for Sentiment Analysis of Memes</font>  
+<!-- <font color="#993333"> MemoSen: A Multimodal Dataset for Sentiment Analysis of Memes</font>  
   Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque  
   [<font color="#4796C9"> [LREC-2022] </font>](https://lrec2022.lrec-conf.org/en/) / [<font color="#4796C9">[Paper] </font>](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.165.pdf)
 
 -->
 
-  <font color="#993333"> MUTE: A Multimodal Dataset for Detecting Hateful Memes</font>  
-  Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque  
-  [<font color="#4796C9"> [AACL-SRW 2022] </font>](https://www.aacl2022.org/) / [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2022.aacl-srw.5/)
   
-  <font color="#993333"> M-BAD: A Multilabel Dataset for Detecting Aggressive Texts and Their Targets </font>  
-  <b><font color="#2d862d">Omar Sharif</font></b>, Eftekhar Hossain, Mohammed Moshiul Hoque  
-  [<font color="	#4796C9"> [CONSTRAINT@ACL-2022] </font>](https://lcs2.iiitd.edu.in/CONSTRAINT-2022/) / [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2022.constraint-1.9/)
- 
-  <font color="#993333"> Emotion Classification in a Resource Constrained Language Using Transformer-based Approach </font>  
-  Avishek Das, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Iqbal H. Sarker   
-  [<font color="#4796C9"> [NAACL-SRW 2021] </font>](https://naacl2021-srw.github.io/) / [<font color="#4796C9">[Paper]</font>](https://aclanthology.org/2021.naacl-srw.19/) / [<font color="#4796C9"> [Code] </font>](https://github.com/omar-sharif03/NAACL-SRW-2021)
-  
-  <font color="#993333"> Align and Conquer: An Ensemble Approach to Classify Aggressive Texts from Social Media </font>    
-  <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
-  [<font color="#4796C9"> [SPICSCON-2021, IEEE] </font>](https://ieeexplore.ieee.org/xpl/conhome/9885262/proceeding) / [<font color="#4796C9">[Paper]     </font>](https://ieeexplore.ieee.org/abstract/document/9885420) 
-
- <font color="#993333"> Identification and Classification of Textual Aggression in Social Media: Resource Creation and Evaluation </font>     
-  🏆 *<font color="#f00">[Best paper award (research track)]</font>*   
- <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
- [<font color="#4796C9"> [CONSTRAINT@AAAI-2021 (acceptance rate: 37.1%)] </font>](http://lcs2.iiitd.edu.in/CONSTRAINT-2021) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007%2F978-3-030-73696-5_2) 
-
 <!--
  
  <font color="#993333"> SentiLSTM: A Deep Learning Approach for Sentiment Analysis of Restaurant Reviews</font> 
@@ -160,9 +140,7 @@ Kawsar Ahmed, Md Osama, <b><font color="#2d862d">Omar Sharif</font></b>, Eftekha
 
 -->
  
- <font color="#993333">Sentiment analysis of Bengali texts on online restaurant reviews using multinomial Naïve Bayes</font> 
- <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Eftekhar Hossain   
- [<font color="#4796C9"> [ICASERT-2019, IEEE] </font>](https://ieeexplore.ieee.org/xpl/conhome/8931128/proceeding) / [<font color="#4796C9">[Paper] </font>](https://ieeexplore.ieee.org/abstract/document/8934655)
+
 
 <!--
  
@@ -171,12 +149,7 @@ Kawsar Ahmed, Md Osama, <b><font color="#2d862d">Omar Sharif</font></b>, Eftekha
  [<font color="#4796C9"> [ICIoTCT 2020, Springer] </font>](http://iciotct2021.iaasse.org/index.html) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-76736-5_15)
  
  -->  
-
- <font color="#993333">Automatic Detection of Suspicious Bangla Text Using Logistic Regression</font> 
- <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
- [<font color="#4796C9"> [ICO-2019, Springer] </font>](https://www.icico.info/ico-2019) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-33585-4_57)        
-
-
+   
 ## <font > Journals </font>  
 
 <font color="#993333">Tackling Cyber-Aggression: Identification and Fine-Grained Categorization of Aggressive Texts on Social Media using Weighted Ensemble of Transformers  </font>                                            
