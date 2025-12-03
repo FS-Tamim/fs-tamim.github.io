@@ -152,9 +152,13 @@ Kawsar Ahmed, Md Osama, <b><font color="#2d862d">Omar Sharif</font></b>, Eftekha
    
 ## <font > Journals </font>  
 
-<font color="#993333">Tackling Cyber-Aggression: Identification and Fine-Grained Categorization of Aggressive Texts on Social Media using Weighted Ensemble of Transformers  </font>                                            
+<font color="#C33C3C">Enhanced semantic relatedness prediction using xlm-roberta and cnns with k-fold cross-validation</font>
+Md Ayon Mia,<b><font color="#41c041"><i>Fahim Shakil Tamim</i></font></b>,Zaima Sartaj Taheri, and Md Alamin Talukder<br> 
+[<font color="##0000FF"> [The Journal of Engineering]</font>](https://ietresearch.onlinelibrary.wiley.com/journal/20513305)  / [<font color="#0000FF">Paper</font>](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/tje2.70106)
+
+<!-- <font color="#993333">Tackling Cyber-Aggression: Identification and Fine-Grained Categorization of Aggressive Texts on Social Media using Weighted Ensemble of Transformers  </font>                                            
 <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
-[<font color="#4796C9"> [Neurocomputing (IF: 6.50, HI:143)]</font>](https://www.journals.elsevier.com/neurocomputing) / [<font color="#4796C9">[Paper]</font>](https://www.sciencedirect.com/science/article/abs/pii/S0925231221018567) / [<font color="#4796C9">[Dataset]</font>](https://github.com/omar-sharif03/BAD-Bangla-Aggressive-Text-Dataset)
+[<font color="#4796C9"> [The Journal of Engineering]</font>](https://ietresearch.onlinelibrary.wiley.com/journal/20513305) / [<font color="#4796C9">[Paper]</font>](https://www.sciencedirect.com/science/article/abs/pii/S0925231221018567) / [<font color="#4796C9">[Dataset]</font>](https://github.com/omar-sharif03/BAD-Bangla-Aggressive-Text-Dataset) -->
 <!--
 <font color="#993333">Information Needs for Opioid Use Disorder Treatment Using Buprenorphine Product: Qualitative Analysis of Suboxone-Focused Reddit Data</font>                                            
 Madhusudan Basak <b><font color="#2d862d">Omar Sharif</font></b>, et al.,    
