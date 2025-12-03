@@ -21,8 +21,7 @@ Taught/TA-ed the following courses in CUET/Dartmouth. I conducted theory courses
 |Co-instructor | CUET | Structured Programming (Sessional) | 130 | [<font color= "#990033" >🎯[CSE-142]</font>](../files/CSE-142-Lecture-Plan.pdf)|
 |Co-instructor | CUET | Internet Programming (Sessional) | 65 | [<font color= "#990033" >🎯[CSE-326]</font>](../files/Course-Syllabus-for-CSE-326.pdf)|
 
-
-
+<!--
 ## <font color="#00cc66"> Invited Training/Workshops </font>  
 **Training on AI and Machine Learning with Python**  <br/>
 Organized by: Sheikh Kamal IT Business Incubator, CUET. <br/>
@@ -39,7 +38,7 @@ Organized by: Dept. of CSE and CUET NLP Lab. <br/>
 **Training on Competitive Programming**  <br/>
 Organized by: CUET Competitive Programming Club.  <br/>
 [🔗 [Resources]](https://drive.google.com/file/d/15nceicASw_4x3fxHrPZwarNAZlWLoTAi/view?usp=sharing)
-
+-->
 
 <!---
 | Course Code|  Course Title                   | Class             | Course Plan   | Student Count | 
