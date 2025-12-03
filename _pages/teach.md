@@ -13,7 +13,7 @@ Taught/TA-ed the following courses in CUET/Dartmouth. I conducted theory courses
 |Instructor | IUBAT | Fall 25  | Software Engineering | 56 ||
 |Instructor | IUBAT | Fall 25  | Software Engineering (Lab) | 56 ||
 |Instructor | IUBAT | Fall 25  | Computer Security | 21 ||
-
+<!--
 |Teaching assistant | Dartmouth | Topics in Applied Computer Science | 12 | [<font color= "#990033" >🎯[COSC-189]</font>](https://dartmouth.smartcatalogiq.com/en/current/orc/departments-programs-graduate/computer-science/cosc-computer-science/100/cosc-189/)
 <!--
 |Teaching assistant | Dartmouth | Machine Learning | 150 | [<font color= "#990033" >🎯[COSC-74/274]</font>](https://dartmouth.smartcatalogiq.com/current/orc/departments-programs-undergraduate/computer-science/cosc-computer-science-undergraduate/cosc-74/)|
@@ -69,3 +69,4 @@ Will ansewer.
 **3. How to maintain good GPA with decent programming skill.**
 Will answer.
 -->
+
