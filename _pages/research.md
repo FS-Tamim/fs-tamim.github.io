@@ -57,7 +57,7 @@ Contents in Bengali</font>
 ## <font> Conferences </font>
 <font color="#">Detecting Signs of Depression from Social Media Texts Using Generalized Autoregressive Pretraining Transformer Model</font>
 <b><font color="#2d862d">Fahim Shakil Tamim</font></b>, Zaima Sartaj Taheri, Mohammed Moshiul Hoque<br> 
-[<font color="#4796C9"> [ICCIT 2023] </font>] / [<font color="#4796C9">[Paper] </font>]
+[<font color="#4796C9"> ICCIT 2023 </font>] / [<font color="#4796C9">[Paper] </font>]
 
 <font color="#">REGen: A Reliable Evaluation Framework for Generative Event Argument Extraction</font>     
 <b><font color="#2d862d">Omar Sharif</font></b>, Joseph Gatto, Madhusudan Basak, Sarah Preum <br>
