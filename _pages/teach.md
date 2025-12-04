@@ -17,7 +17,12 @@ Taughtthe following courses in IUBAT. I conducted theory courses and lab session
   <tr><td rowspan="3">Instructor</td><td rowspan="3">IUBAT</td><td rowspan="3">Fall 25</td><td>Software Engineering</td><td>56</td><td>123</td></tr>
   <tr><td>Software Engineering (Lab)</td><td>56</td><td>123</td></tr>
   <tr><td>Computer Security</td><td>21</td><td>123</td></tr>
-  <tr><td>Instructor</td><td>IUBAT</td><td>Summer 25</td><td>Programming In C</td><td>45</td><td>123</td></tr>
+  <tr><td rowspan="5">Instructor</td><td rowspan="5">IUBAT</td><td rowspan="5">Summer 25</td><td>Data Strucutre</td><td>22</td><td>123</td></tr>
+  <tr><td>Data Strucutre(Lab)</td><td>21</td><td>123</td></tr>
+  <tr><td>Structured Programming</td><td>45</td><td>123</td></tr>
+  <tr><td>Structured Programming(Lab)</td><td>45</td><td>123</td></tr>
+  <tr><td>System Analysis and Design</td><td>70</td><td>123</td></tr>
+  
 </tbody>
 
 </table>
