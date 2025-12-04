@@ -8,57 +8,17 @@ permalink: /teach/
 
 Taughtthe following courses in IUBAT. I conducted theory courses and lab sessions as a instructor. Created and graded weekly assignments, class tests and final exams. 
 <table border="1" cellspacing="0" cellpadding="6">
-  <thead>
-    <tr>
-      <th>Role</th>
-      <th>Affiliation</th>
-      <th>Semester</th>
-      <th>Course Title</th>
-      <th>Class Size</th>
-      <th>Syllabus</th>
-    </tr>
-  </thead>
 
-  <tbody>
-    <tr>
-      <td>Instructor</td>
-      <td>IUBAT</td>
-      <td>Fall 25</td>
-      <td>Software Engineering</td>
-      <td>56</td>
-      <td>123</td>
-    </tr>
-    <tr>
-      <td>Instructor</td>
-      <td>IUBAT</td>
-      <td>Fall 25</td>
-      <td>Software Engineering (Lab)</td>
-      <td>56</td>
-      <td>123</td>
-    </tr>
-    <tr>
-      <td>Instructor</td>
-      <td>IUBAT</td>
-      <td>Fall 25</td>
-      <td>Computer Security</td>
-      <td>21</td>
-      <td>123</td>
-    </tr>
-    <tr>
-      <td>Teaching assistant</td>
-      <td>Dartmouth</td>
-      <td>Topics in Applied Computer Science</td>
-      <td>12</td>
-      <td>
-        <a href="https://dartmouth.smartcatalogiq.com/en/current/orc/departments-programs-graduate/computer-science/cosc-computer-science/100/cosc-189/">
-          <font color="#990033">🎯[COSC-189]</font>
-        </a>
-      </td>
-      <td>123</td>
-    </tr>
-
-    <!-- Additional rows you commented out can also be converted if needed -->
-  </tbody>
+<thead>
+<tr><th>Role</th><th>Affiliation</th><th>Semester</th><th>Course Title</th><th>Class Size</th><th>Syllabus</th></tr>
+</thead>
+      
+<tbody>
+  <tr><td>Instructor</td><td>IUBAT</td><td>Fall 25</td><td>Software Engineering</td><td>56</td><td>123</td></tr>
+  <tr><td>Instructor</td><td>IUBAT</td><td>Fall 25</td><td>Software Engineering (Lab)</td><td>56</td><td>123</td></tr>
+  <tr><td>Instructor</td><td>IUBAT</td><td>Fall 25</td><td>Computer Security</td><td>21</td><td>123</td></tr>
+  <tr><td>Teaching assistant</td><td>Dartmouth</td><td>Topics in Applied Computer Science</td><td>12</td><td><a href="https://dartmouth.smartcatalogiq.com/en/current/orc/departments-programs-graduate/computer-science/cosc-computer-science/100/cosc-189/"><font color="#990033">🎯[COSC-189]</font></a></td><td>123</td></tr>
+</tbody>
 </table>
 
 <!--
