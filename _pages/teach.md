@@ -13,7 +13,7 @@ Taughtthe following courses in IUBAT. I conducted theory courses and lab session
 |Instructor | IUBAT | Fall 25  | Software Engineering | 56 |123|
 |Instructor | IUBAT | Fall 25  | Software Engineering (Lab) | 56 |123|
 |Instructor | IUBAT | Fall 25  | Computer Security | 21 |123|
-|Teaching assistant | Dartmouth | Topics in Applied Computer Science | 12 | [<font color= "#990033" >🎯[COSC-189]</font>](https://dartmouth.smartcatalogiq.com/en/current/orc/departments-programs-graduate/computer-science/cosc-computer-science/100/cosc-189/)
+|Teaching assistant | Dartmouth | Topics in Applied Computer Science | 12 | [<font color= "#990033" >🎯[COSC-189]</font>](https://dartmouth.smartcatalogiq.com/en/current/orc/departments-programs-graduate/computer-science/cosc-computer-science/100/cosc-189/)|123|
 <!--
 |Teaching assistant | Dartmouth | Machine Learning | 150 | [<font color= "#990033" >🎯[COSC-74/274]</font>](https://dartmouth.smartcatalogiq.com/current/orc/departments-programs-undergraduate/computer-science/cosc-computer-science-undergraduate/cosc-74/)|
 |Teaching assistant | Dartmouth | Theory of Computation | 20 | [<font color= "#990033" >🎯[COSC-39]</font>](https://www.cs.dartmouth.edu/~ac/Teach/CS39-Winter23/index.php)|
