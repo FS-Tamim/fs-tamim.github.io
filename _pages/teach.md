@@ -19,6 +19,9 @@ Taughtthe following courses in IUBAT. I conducted theory courses and lab session
   <tr><td>Instructor</td><td>IUBAT</td><td>Fall 25</td><td>Computer Security</td><td>21</td><td>123</td></tr>
   <tr><td>Instructor</td><td>IUBAT</td><td>Summer 25</td><td>Programming In C</td><td>45</td><td>123</td></tr>
 </tbody>
+  <tr><td rowspan="3">Instructor</td><td rowspan="3">IUBAT</td><td rowspan="3">Fall 25</td><td>Software Engineering</td><td>56</td><td>123</td></tr>
+  <tr><td>Software Engineering (Lab)</td><td>56</td><td>123</td></tr>
+  <tr><td>Computer Security</td><td>21</td><td>123</td></tr>
 </table>
 <!-- <a href="https://dartmouth.smartcatalogiq.com/en/current/orc/departments-programs-graduate/computer-science/cosc-computer-science/100/cosc-189/"><font color="#990033">🎯[COSC-189] -->
 <!--
