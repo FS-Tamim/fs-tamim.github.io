@@ -7,13 +7,68 @@ permalink: /teach/
 ---
 
 Taughtthe following courses in IUBAT. I conducted theory courses and lab sessions as a instructor. Created and graded weekly assignments, class tests and final exams. 
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Role</th>
+      <th>Affiliation</th>
+      <th>Semester</th>
+      <th>Course Title</th>
+      <th>Class Size</th>
+      <th>Syllabus</th>
+    </tr>
+  </thead>
 
+  <tbody>
+    <tr>
+      <td>Instructor</td>
+      <td>IUBAT</td>
+      <td>Fall 25</td>
+      <td>Software Engineering</td>
+      <td>56</td>
+      <td>123</td>
+    </tr>
+    <tr>
+      <td>Instructor</td>
+      <td>IUBAT</td>
+      <td>Fall 25</td>
+      <td>Software Engineering (Lab)</td>
+      <td>56</td>
+      <td>123</td>
+    </tr>
+    <tr>
+      <td>Instructor</td>
+      <td>IUBAT</td>
+      <td>Fall 25</td>
+      <td>Computer Security</td>
+      <td>21</td>
+      <td>123</td>
+    </tr>
+    <tr>
+      <td>Teaching assistant</td>
+      <td>Dartmouth</td>
+      <td>Topics in Applied Computer Science</td>
+      <td>12</td>
+      <td>
+        <a href="https://dartmouth.smartcatalogiq.com/en/current/orc/departments-programs-graduate/computer-science/cosc-computer-science/100/cosc-189/">
+          <font color="#990033">🎯[COSC-189]</font>
+        </a>
+      </td>
+      <td>123</td>
+    </tr>
+
+    <!-- Additional rows you commented out can also be converted if needed -->
+  </tbody>
+</table>
+
+<!--
 | Role | Affiliation| Semister | Course Title | Class Size | Syllabus |
 |-- | ----  |--   | --            | ----   | -----|
 |Instructor | IUBAT | Fall 25  | Software Engineering | 56 |123|
 |Instructor | IUBAT | Fall 25  | Software Engineering (Lab) | 56 |123|
 |Instructor | IUBAT | Fall 25  | Computer Security | 21 |123|
 |Teaching assistant | Dartmouth | Topics in Applied Computer Science | 12 | [<font color= "#990033" >🎯[COSC-189]</font>](https://dartmouth.smartcatalogiq.com/en/current/orc/departments-programs-graduate/computer-science/cosc-computer-science/100/cosc-189/)|123|
+-->
 <!--
 |Teaching assistant | Dartmouth | Machine Learning | 150 | [<font color= "#990033" >🎯[COSC-74/274]</font>](https://dartmouth.smartcatalogiq.com/current/orc/departments-programs-undergraduate/computer-science/cosc-computer-science-undergraduate/cosc-74/)|
 |Teaching assistant | Dartmouth | Theory of Computation | 20 | [<font color= "#990033" >🎯[COSC-39]</font>](https://www.cs.dartmouth.edu/~ac/Teach/CS39-Winter23/index.php)|
