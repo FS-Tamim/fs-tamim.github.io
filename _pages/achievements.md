@@ -1,5 +1,5 @@
 ---
-title: "Research Grants"
+title: "Skills"
 excerpt: ""
 author_profile: true
 permalink: /achievements/
