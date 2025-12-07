@@ -8,7 +8,7 @@ permalink: /education/
 <p>
   <strong>Chittagong University of Engineering and Technology (CUET)</strong><br>
   <em>Bachelors in Computer Science and Engineering</em><br>
-  Study Period: <b>2018 - 22023</b><br>
+  Study Period: <b>2018 - 2023</b><br>
   CGPA 3.79/4.00 (With honors)<br>
   Position: 9th/126<br>
   Recipient of the Dean’s Award<br>
