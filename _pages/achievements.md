@@ -94,8 +94,8 @@ permalink: /achievements/
   <!-- Additional Department Entry (2022) -->
   <li style="margin-bottom: 15px;">
     <b><span style="color:#555555;">CSE Department, CUET</span></b><br>
-    <span style="color:#777777; font-style:italic;">(2022)</span><br>
-    <span style="color:#999999;">CSE, CUET</span>
+    <span style="color:#777777; font-style:italic;">Organizing Secretary, CUET CSE Fest(2022)</span><br>
+    <span style="color:#999999;">2022, CUET</span>
   </li>
 
 </ul>
