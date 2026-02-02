@@ -51,7 +51,7 @@ I am also pursuing my M.Sc. from CUET . My research interest lies in the interse
 ## <font color="#00cc66"> Updates </font>
 <div style="height: 400px; overflow: auto;">
 <pre>
-<span style="color:rgb(201, 76, 76)">30 Jan,26</span> One <a href="[https://iccit.org.bd/2025/home/](https://ieeexplore.ieee.org/document/11369232)">paper</a> published at <a href="[https://iccit.org.bd/2025/home/](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)">IEEE Access</a>(Impact Factor: 3.6), (CiteScore: 9)
+<span style="color:rgb(201, 76, 76)">30 Jan,26</span> One <a href="https://ieeexplore.ieee.org/document/11369232">paper</a> published at <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">IEEE Access</a>(Impact Factor: 3.6),(CiteScore: 9)
 <span style="color:rgb(201, 76, 76)">1 Dec,25</span> Accepted 4 papers at <a href="https://iccit.org.bd/2025/home/">ICCIT2025</a>
 <span style="color:rgb(201, 76, 76)">13 Jan,23</span> Joined <a href="https://iubat.edu">IUBAT</a>  as a Lecturer in the Department of CSE
 <!-- <span style="color:rgb(201, 76, 76)">19 Aug,25</span>    Successfully passed my RPE/Qual exam. Thanks to my committee <a href="https://www.cs.dartmouth.edu/~soroush/">Soroush Vosoughi</a>, <a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a>, and <a href="https://persist-lab.github.io/portfolio/">Sarah Preum</a>.
