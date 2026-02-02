@@ -4,7 +4,7 @@ excerpt: ""
 author_profile: true
 permalink: /teach/
 
----
+---https://docs.google.com/document/d/1uPiTorND3pK3WZrAuM1Tzjsba1QoeNAF/edit
 
 Taughtthe following courses in IUBAT. I conducted theory courses and lab sessions as a instructor. Created and graded weekly assignments, class tests and final exams. 
 <table border="1" cellspacing="0" cellpadding="6">
@@ -15,7 +15,7 @@ Taughtthe following courses in IUBAT. I conducted theory courses and lab session
 <tbody>
  <tr><td rowspan="2">Instructor</td><td rowspan="2">IUBAT</td><td rowspan="2">Spring 26</td><td>Machine Learning and Practices</td><td>120</td><td><a href="https://docs.google.com/document/d/1AFuwG0tN1VwxOqGtNZtee9DnhNk3SdcN/edit">Course Outline</a></td></tr></td></tr>
   <tr><td>Web Engineering</td><td>80</td><td><a href="https://docs.google.com/document/d/15S_vO8W5QMCnwyJDPckKwNSfjCIPufhu/edit">Course Outline</a></td></tr></td></tr>
-  <tr><td rowspan="3">Instructor</td><td rowspan="3">IUBAT</td><td rowspan="3">Fall 25</td><td>Software Engineering</td><td>56</td><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">Course Outline</a></td></tr>
+  <tr><td rowspan="3">Instructor</td><td rowspan="3">IUBAT</td><td rowspan="3">Fall 25</td><td>Software Engineering</td><td>56</td><a href="[https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639](https://docs.google.com/document/d/1uPiTorND3pK3WZrAuM1Tzjsba1QoeNAF/edit?usp=sharing&ouid=105093937272479355419&rtpof=true&sd=true)">Course Outline</a></td></tr>
   <tr><td>Software Engineering (Lab)</td><td>56</td><td>123</td></tr>
   <tr><td>Computer Security</td><td>21</td><td>123</td></tr>
   <tr><td rowspan="5">Instructor</td><td rowspan="5">IUBAT</td><td rowspan="5">Summer 25</td><td>Data Strucutre</td><td>22</td><td>123</td></tr>
