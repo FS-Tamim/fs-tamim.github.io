@@ -12,7 +12,6 @@ Taughtthe following courses in IUBAT. I conducted theory courses and lab session
 <thead>
 <tr><th>Role</th><th>Affiliation</th><th>Semester</th><th>Course Title</th><th>Class Size</th><th>Syllabus</th></tr>
 </thead>
-      <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">Course Outline</a>
 <tbody>
  <tr><td rowspan="2">Instructor</td><td rowspan="2">IUBAT</td><td rowspan="2">Spring 26</td><td>Machine Learning and Practices
 
