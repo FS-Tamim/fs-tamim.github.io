@@ -17,11 +17,7 @@ Taughtthe following courses in IUBAT. I conducted theory courses and lab session
  <tr><td rowspan="2">Instructor</td><td rowspan="2">IUBAT</td><td rowspan="2">Spring 26</td><td>Machine Learning and Practices
 
 </td><td>120</td><td><a href="https://docs.google.com/document/d/1AFuwG0tN1VwxOqGtNZtee9DnhNk3SdcN/edit">Course Outline</a></td></tr>
-  <tr><td>Software Engineering (Lab)</td><td>56</td><td>123</td></tr>
-       <tr><td>Software Engineering (Lab)</td><td>56</td><td>123</td></tr>
-       <tr><td>Software Engineering (Lab)</td><td>56</td><td>123</td></tr>
-    <tr><td>Software Engineering (Lab)</td><td>56</td><td>123</td></tr>
-    <tr><td>Software Engineering (Lab)</td><td>56</td><td>123</td></tr>   
+  <tr><td>Web Engineering</td><td>80</td><td></td><td>120</td><td><a href="https://docs.google.com/document/d/15S_vO8W5QMCnwyJDPckKwNSfjCIPufhu/edit">Course Outline</a></td></tr></td></tr>
   <tr><td rowspan="3">Instructor</td><td rowspan="3">IUBAT</td><td rowspan="3">Fall 25</td><td>Software Engineering</td><td>56</td><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">Course Outline</a></td></tr>
   <tr><td>Software Engineering (Lab)</td><td>56</td><td>123</td></tr>
   <tr><td>Computer Security</td><td>21</td><td>123</td></tr>
