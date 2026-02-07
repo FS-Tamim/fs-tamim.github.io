@@ -7,7 +7,7 @@ permalink: /teach/
 ---
 
 
-Taughtthe following courses in IUBAT. I conducted theory courses and lab sessions as a instructor. Created and graded weekly assignments, class tests and final exams. 
+Taught the following courses in IUBAT. I conducted theory courses and lab sessions as an instructor. Created and graded weekly assignments, class tests, and final exams. 
 <table border="1" cellspacing="0" cellpadding="6">
 
 <thead>
@@ -24,7 +24,11 @@ Taughtthe following courses in IUBAT. I conducted theory courses and lab session
   <tr><td>Structured Programming</td><td>45</td><td>123</td></tr>
   <tr><td>Structured Programming(Lab)</td><td>45</td><td>123</td></tr>
   <tr><td>System Analysis and Design</td><td>70</td><td>123</td></tr>
-  
+
+
+  <tr><td rowspan="3">Instructor</td><td rowspan="3">IUBAT</td><td rowspan="3">Spring 25</td><td>Operating System</td><td>80</td><td><a href="https://docs.google.com/document/d/1MonAHJvbbZspJhbJEao-gDunPBGt9AQL/edit?usp=sharing&ouid=116710110161067348667&rtpof=true&sd=true">Course Outline</a></td></tr>
+  <tr><td>Fundamentals of Electronics and Digital System</td><td>80</td><td><a href="https://docs.google.com/document/d/1ZBOB6uqAbYuorxu6K1fbcilrN423M6S4/edit?usp=sharing&ouid=116710110161067348667&rtpof=true&sd=true">Course Outline</a></td></tr>
+  <tr><td>Fundamentals of Electronics and Digital System(Lab)</td><td>80</td><td><a href="">Course Outline</a></td></tr>
 </tbody>
 </table>
 
