@@ -25,7 +25,7 @@ Taught the following courses at IUBAT. I conducted theory courses and lab sessio
   <tr><td>Structured Programming(Lab)</td><td>45</td><td>123</td></tr>
   <tr><td>System Analysis and Design</td><td>70</td><td>123</td></tr>
  
-<tr><td rowspan="4">Instructor</td><td rowspan="4">IUBAT</td><td rowspan="4">Spring 25</td><td>Software Engineering</td><td>75</td><td><a href="https://docs.google.com/document/d/1uPiTorND3pK3WZrAuM1Tzjsba1QoeNAF/edit?usp=sharing&ouid=105093937272479355419&rtpof=true&sd=true">Course Outline</a></td></tr>
+<tr><td rowspan="5">Instructor</td><td rowspan="5">IUBAT</td><td rowspan="4">Spring 25</td><td>Software Engineering</td><td>75</td><td><a href="https://docs.google.com/document/d/1uPiTorND3pK3WZrAuM1Tzjsba1QoeNAF/edit?usp=sharing&ouid=105093937272479355419&rtpof=true&sd=true">Course Outline</a></td></tr>
  <tr><td>Software Engineering (Lab)</td><td>75</td><td><a href="https://docs.google.com/document/d/15OztKNHpq2O0sHm1c3FXdO8qaeq7BRdC/edit?usp=sharing&ouid=105093937272479355419&rtpof=true&sd=true">Course Outline</a></td></tr>
   <tr><td>Structured Programming</td><td>42</td><td><a href="https://docs.google.com/document/d/1TUT0wOlcHtoa2oRwur4ZbZU6ikxYR_-V/edit?usp=sharing&ouid=105093937272479355419&rtpof=true&sd=true">Course Outline</a></td></tr>
   <tr><td>Structured Programming(Lab)</td><td>42</td><td><a href="https://docs.google.com/document/d/1tRloqevSvJkiqShrgBs4Jw7ZlUuAC_iC/edit?usp=sharing&ouid=105093937272479355419&rtpof=true&sd=true">Course Outline</a></td></tr>
