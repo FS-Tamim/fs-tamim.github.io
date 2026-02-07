@@ -28,7 +28,7 @@ Taught the following courses at IUBAT. I conducted theory courses and lab sessio
  <tr><td rowspan="4">Instructor</td><td rowspan="4">IUBAT</td><td rowspan="4">Fall 24</td><td>Data Structures and Algorithms</td><td>65</td><td><a href="">Course Outline</a></td></tr>
   <tr><td>Programming in C</td><td>80</td><td><a href="https://docs.google.com/document/d/1TUT0wOlcHtoa2oRwur4ZbZU6ikxYR_-V/edit?usp=sharing&ouid=105093937272479355419&rtpof=true&sd=true">Course Outline</a></td></tr>
   <tr><td>Programming in C(Lab)</td><td>80</td><td><a href="https://docs.google.com/document/d/1tRloqevSvJkiqShrgBs4Jw7ZlUuAC_iC/edit?usp=sharing&ouid=105093937272479355419&rtpof=true&sd=true">Course Outline</a></td></tr>
-  <tr><td>Engineering Ethics</td><td>80</td><td><a href="https://docs.google.com/document/d/1kzhXDBvQjd5QVDZykGnPS_IHi65ig16b/edit?usp=sharing&ouid=105093937272479355419&rtpof=true&sd=true">Course Outline</a></td></tr>
+  <tr><td>Engineering Ethics</td><td>40</td><td><a href="https://docs.google.com/document/d/1kzhXDBvQjd5QVDZykGnPS_IHi65ig16b/edit?usp=sharing&ouid=105093937272479355419&rtpof=true&sd=true">Course Outline</a></td></tr>
  
 
   <tr><td rowspan="3">Instructor</td><td rowspan="3">IUBAT</td><td rowspan="3">Spring 24</td><td>Operating System</td><td>80</td><td><a href="https://docs.google.com/document/d/1MonAHJvbbZspJhbJEao-gDunPBGt9AQL/edit?usp=sharing&ouid=116710110161067348667&rtpof=true&sd=true">Course Outline</a></td></tr>
