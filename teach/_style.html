@@ -1,0 +1,148 @@
+<!-- Styling for the Teaching page. Change the colors in the first block. -->
+<style>
+
+  /* ---------- Colors ---------- */
+  .tc {
+    --ink:         #1f2933;   /* main text           */
+    --muted:       #5f6b7a;   /* secondary text      */
+    --line:        #e6e9ee;   /* borders             */
+    --accent:      #2f5d8a;   /* headings, numbers   */
+    --accent-soft: #eef3f9;   /* theory tag          */
+    --lab:         #1f7a4d;   /* lab tag text        */
+    --lab-soft:    #e9f6ef;   /* lab tag background  */
+
+    color: var(--ink);
+    font-size: 0.95rem;
+  }
+
+  /* ---------- Intro ---------- */
+  .tc .tc-lead {
+    margin: 0 0 1.4rem;
+    line-height: 1.75;
+    color: var(--muted);
+  }
+
+  /* ---------- Summary numbers ---------- */
+  .tc .tc-stats {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.8rem;
+    margin: 0 0 2rem;
+  }
+
+  .tc .tc-stat {
+    padding: 0.9rem 1rem;
+    border-radius: 10px;
+    background: var(--accent-soft);
+    text-align: center;
+  }
+
+  .tc .tc-num {
+    display: block;
+    font-size: 1.6rem;
+    font-weight: 600;
+    line-height: 1.2;
+    color: var(--accent);
+  }
+
+  .tc .tc-label {
+    font-size: 0.8rem;
+    color: var(--muted);
+  }
+
+  /* ---------- Semester card ---------- */
+  .tc .sem {
+    margin: 0 0 1.2rem;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    background: #fff;
+    overflow: hidden;
+  }
+
+  .tc .sem-head {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.4rem;
+    padding: 0.75rem 1.1rem;
+    border-bottom: 1px solid var(--line);
+    background: #f8fafc;
+  }
+
+  .tc .sem-term {
+    margin: 0;
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: var(--accent);
+  }
+
+  .tc .sem-meta {
+    font-size: 0.85rem;
+    color: var(--muted);
+  }
+
+  /* ---------- Course rows ---------- */
+  .tc .course-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .tc .course {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+    margin: 0;
+    padding: 0.65rem 1.1rem;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .tc .course:last-child { border-bottom: none; }
+  .tc .course:hover      { background: #fbfcfd; }
+
+  .tc .course-name {
+    flex: 1 1 14rem;
+    font-weight: 500;
+  }
+
+  .tc .course-right {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .tc .size {
+    min-width: 6.2rem;
+    font-size: 0.82rem;
+    color: var(--muted);
+    text-align: right;
+  }
+
+  /* ---------- Tags and buttons ---------- */
+  .tc .tag,
+  .tc .btn {
+    padding: 0.18rem 0.6rem;
+    border-radius: 6px;
+    font-size: 0.76rem;
+    text-decoration: none;
+  }
+
+  .tc .tag        { font-weight: 600; min-width: 3.6rem; text-align: center; }
+  .tc .tag-theory { background: var(--accent-soft); color: var(--accent); }
+  .tc .tag-lab    { background: var(--lab-soft); color: var(--lab); }
+
+  .tc .btn           { border: 1px solid var(--line); color: var(--ink); }
+  .tc .btn:hover     { border-color: var(--accent); color: var(--accent); }
+  .tc .btn-empty     { color: #b8c0ca; border-style: dashed; }
+
+  /* ---------- Phones ---------- */
+  @media (max-width: 600px) {
+    .tc .tc-num    { font-size: 1.3rem; }
+    .tc .course    { flex-direction: column; align-items: flex-start; }
+    .tc .size      { text-align: left; min-width: 0; }
+  }
+
+</style>
