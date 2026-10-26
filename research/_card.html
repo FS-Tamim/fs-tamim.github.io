@@ -1,0 +1,50 @@
+{% comment %}
+  One publication card, used by research/index.md.
+  To add papers, edit research/index.md — not this file.
+{% endcomment %}
+
+{% assign pub = include.pub %}
+{% assign my_name = "Fahim Shakil Tamim" %}
+{% capture my_name_html %}<span class="me">{{ my_name }}</span>{% endcapture %}
+
+<article class="pub">
+
+  <div class="pub-year">
+    {% if pub.year %}{{ pub.year }}{% else %}&mdash;{% endif %}
+  </div>
+
+  <div class="pub-body">
+
+    <h4 class="pub-title">{{ pub.title }}</h4>
+
+    {% if pub.authors %}
+      <p class="pub-authors">{{ pub.authors | replace: my_name, my_name_html }}</p>
+    {% endif %}
+
+    <div class="pub-meta">
+
+      {% if pub.status %}
+        <span class="status">{{ pub.status }}</span>
+      {% endif %}
+
+      {% if pub.venue %}
+        {% if pub.venue_url %}
+          <a class="venue" href="{{ pub.venue_url }}">{{ pub.venue }}</a>
+        {% else %}
+          <span class="venue">{{ pub.venue }}</span>
+        {% endif %}
+      {% endif %}
+
+      {% if pub.paper_url %}
+        <a class="btn" href="{{ pub.paper_url }}">Paper</a>
+      {% endif %}
+
+      {% if pub.code_url %}
+        <a class="btn" href="{{ pub.code_url }}">Code</a>
+      {% endif %}
+
+    </div>
+
+  </div>
+
+</article>
