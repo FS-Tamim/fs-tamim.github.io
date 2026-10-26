@@ -164,3 +164,30 @@
     border-top: 1px solid var(--st-line);
   }
 }
+
+
+/* ---------- NAME STYLE (navbar and sidebar) ---------- */
+
+.greedy-nav .visible-links li:first-child a.site-name {
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  font-size: 1.3rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  color: var(--st-ink);
+}
+
+.greedy-nav .visible-links li:first-child a.site-name .site-name__last {
+  color: var(--st-accent);
+}
+
+.greedy-nav .visible-links li:first-child a.site-name:hover {
+  color: var(--st-accent);
+}
+
+.sidebar .author__name {
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  font-size: 1.35rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  line-height: 1.25;
+}
