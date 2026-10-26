@@ -17,12 +17,12 @@
   .ab a:hover { text-decoration: underline; }
 
   /* ---------- Intro ---------- */
-  .ab .ab-lead {
-    margin: 0 0 1rem;
-    font-size: 1.05rem;
-    line-height: 1.75;
-    color: var(--ink);
-  }
+.ab .ab-lead {
+  margin: 0 0 1rem;
+  line-height: 1.75;
+  color: var(--muted);
+  text-align: justify;
+}
 
   .ab .ab-text {
     margin: 0 0 1rem;
@@ -138,6 +138,7 @@
 
   /* ---------- Phones ---------- */
   @media (max-width: 600px) {
+    .ab .ab-lead,
     .ab .ab-text      { text-align: left; }
     .ab .ab-news li   { flex-direction: column; gap: 0.15rem; }
     .ab .ab-date      { flex: none; }
