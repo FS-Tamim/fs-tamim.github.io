@@ -1,0 +1,191 @@
+<!-- Styling for the Achievements & Skills page. Change the colors in the first block. -->
+<style>
+
+  /* ---------- Colors ---------- */
+  .ac {
+    --ink:         #1f2933;   /* main text           */
+    --muted:       #5f6b7a;   /* secondary text      */
+    --line:        #e6e9ee;   /* borders             */
+    --accent:      #2f5d8a;   /* headings, chips     */
+    --accent-soft: #eef3f9;   /* chip background     */
+    --gold:        #9a5b00;   /* award badge text    */
+    --gold-soft:   #fff6e5;   /* award badge bg      */
+
+    color: var(--ink);
+    font-size: 0.95rem;
+  }
+
+  /* ---------- Section headings ---------- */
+  .ac h2.ac-h {
+    margin: 2.2rem 0 1rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 2px solid var(--line);
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: var(--ink);
+  }
+
+  .ac h2.ac-h:first-child { margin-top: 0.5rem; }
+
+  /* ---------- Honors ---------- */
+  .ac .ac-honors {
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    background: #fff;
+    overflow: hidden;
+  }
+
+  .ac .honor {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 0.85rem 1.1rem;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .ac .honor:last-child { border-bottom: none; }
+  .ac .honor:hover      { background: #fbfcfd; }
+
+  .ac .honor-rank {
+    flex: 0 0 8.2rem;
+    padding: 0.25rem 0.5rem;
+    border-radius: 6px;
+    background: var(--gold-soft);
+    color: var(--gold);
+    font-size: 0.78rem;
+    font-weight: 600;
+    text-align: center;
+  }
+
+  .ac .honor-rank.plain {
+    background: var(--accent-soft);
+    color: var(--accent);
+  }
+
+  .ac .honor-body { flex: 1; min-width: 0; }
+
+  .ac .honor-title {
+    margin: 0;
+    font-size: 0.98rem;
+    font-weight: 600;
+    line-height: 1.4;
+    color: var(--ink);
+  }
+
+  .ac .honor-title a { color: var(--ink); }
+
+  .ac .honor-event {
+    margin: 0.15rem 0 0;
+    font-size: 0.85rem;
+    color: var(--muted);
+  }
+
+  .ac .honor-date {
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: var(--accent);
+    white-space: nowrap;
+  }
+
+  /* ---------- Service and leadership ---------- */
+  .ac .ac-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+    gap: 0.8rem;
+  }
+
+  .ac .act {
+    padding: 0.85rem 1rem;
+    border: 1px solid var(--line);
+    border-left: 3px solid var(--accent);
+    border-radius: 0;
+    background: #fff;
+  }
+
+  .ac .act-role {
+    margin: 0;
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--accent);
+  }
+
+  .ac .act-org {
+    margin: 0.25rem 0 0;
+    font-size: 0.95rem;
+    font-weight: 600;
+    line-height: 1.4;
+    color: var(--ink);
+  }
+
+  .ac .act-meta {
+    margin: 0.3rem 0 0;
+    font-size: 0.82rem;
+    color: var(--muted);
+  }
+
+  /* ---------- Skills ---------- */
+  .ac .ac-skills {
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    background: #fff;
+  }
+
+  .ac .skill-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem 1rem;
+    padding: 0.75rem 1.1rem;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .ac .skill-row:last-child { border-bottom: none; }
+
+  .ac .skill-group {
+    flex: 0 0 13rem;
+    font-size: 0.88rem;
+    font-weight: 600;
+    color: var(--ink);
+  }
+
+  .ac .skill-items {
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+
+  .ac .chip {
+    padding: 0.2rem 0.65rem;
+    border: 1px solid transparent;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-size: 0.8rem;
+    font-weight: 500;
+  }
+
+  .ac .chip-light {
+    border-color: var(--line);
+    background: #fff;
+    color: var(--muted);
+  }
+
+  .ac .ac-legend {
+    display: flex;
+    gap: 0.5rem;
+    margin: 0.6rem 0 0;
+    font-size: 0.8rem;
+  }
+
+  /* ---------- Phones ---------- */
+  @media (max-width: 600px) {
+    .ac .honor       { flex-wrap: wrap; gap: 0.4rem 0.8rem; }
+    .ac .honor-rank  { flex: none; }
+    .ac .honor-body  { flex-basis: 100%; order: 3; }
+    .ac .skill-group { flex-basis: 100%; }
+  }
+
+</style>

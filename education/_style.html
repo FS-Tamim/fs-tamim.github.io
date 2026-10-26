@@ -1,0 +1,153 @@
+<!-- Styling for the Education & Experience page. Change the colors in the first block. -->
+<style>
+
+  /* ---------- Colors ---------- */
+  .ed {
+    --ink:         #1f2933;   /* main text          */
+    --muted:       #5f6b7a;   /* secondary text     */
+    --line:        #e6e9ee;   /* borders            */
+    --accent:      #2f5d8a;   /* headings, dots     */
+    --accent-soft: #eef3f9;   /* fact badges        */
+    --done:        #1f7a4d;   /* "Completed" text   */
+    --done-soft:   #e9f6ef;   /* "Completed" badge  */
+
+    color: var(--ink);
+    font-size: 0.95rem;
+  }
+
+  /* ---------- Section headings ---------- */
+  .ed h2.ed-h {
+    margin: 2.2rem 0 1rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 2px solid var(--line);
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: var(--ink);
+  }
+
+  .ed h2.ed-h:first-child { margin-top: 0.5rem; }
+
+  /* ---------- Timeline ---------- */
+  .ed .ed-list {
+    position: relative;
+    margin-left: 0.45rem;
+    padding-left: 1.4rem;
+    border-left: 2px solid var(--line);
+  }
+
+  .ed .ed-item {
+    position: relative;
+    margin: 0 0 1rem;
+  }
+
+  .ed .ed-dot {
+    position: absolute;
+    top: 1.15rem;
+    left: -1.88rem;
+    width: 0.8rem;
+    height: 0.8rem;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    background: var(--accent);
+    box-shadow: 0 0 0 2px var(--accent-soft);
+  }
+
+  /* ---------- Card ---------- */
+  .ed .ed-card {
+    padding: 0.95rem 1.1rem;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    background: #fff;
+    transition: border-color 0.15s, box-shadow 0.15s;
+  }
+
+  .ed .ed-card:hover {
+    border-color: #c9d4e2;
+    box-shadow: 0 2px 10px rgba(31, 41, 51, 0.06);
+  }
+
+  .ed .ed-top {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.3rem 0.8rem;
+  }
+
+  .ed .ed-title {
+    flex: 1 1 16rem;
+    margin: 0;
+    font-size: 1.02rem;
+    font-weight: 600;
+    line-height: 1.4;
+    color: var(--ink);
+  }
+
+  .ed .ed-title a       { color: var(--ink); text-decoration: none; }
+  .ed .ed-title a:hover { color: var(--accent); }
+
+  .ed .ed-period {
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: var(--accent);
+    white-space: nowrap;
+  }
+
+  .ed .ed-sub {
+    margin: 0.2rem 0 0;
+    font-size: 0.9rem;
+    font-style: italic;
+    color: var(--muted);
+  }
+
+  .ed .ed-loc { font-style: normal; }
+
+  /* ---------- Facts (CGPA, position, awards) ---------- */
+  .ed .ed-facts {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 0.6rem 0 0;
+  }
+
+  .ed .ed-fact {
+    padding: 0.2rem 0.6rem;
+    border-radius: 6px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-size: 0.78rem;
+    font-weight: 600;
+  }
+
+  /* ---------- Status badge (certifications) ---------- */
+  .ed .ed-status {
+    padding: 0.15rem 0.55rem;
+    border-radius: 6px;
+    background: #fff6e5;
+    color: #9a5b00;
+    font-size: 0.75rem;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+
+  .ed .ed-status.done { background: var(--done-soft); color: var(--done); }
+
+  /* ---------- Bullet points ---------- */
+  .ed .ed-points {
+    margin: 0.6rem 0 0;
+    padding-left: 1.1rem;
+    font-size: 0.88rem;
+    line-height: 1.6;
+    color: var(--ink);
+  }
+
+  .ed .ed-points li       { margin: 0 0 0.25rem; }
+  .ed .ed-points a        { color: var(--accent); }
+
+  /* ---------- Phones ---------- */
+  @media (max-width: 600px) {
+    .ed .ed-list  { padding-left: 1.1rem; }
+    .ed .ed-dot   { left: -1.58rem; }
+  }
+
+</style>

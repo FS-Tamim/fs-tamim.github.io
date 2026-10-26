@@ -1,0 +1,166 @@
+/* ==============================================================
+   SITE THEME - navbar, sidebar and page titles
+   Matches the design of the Research, Teaching, Education and
+   Achievements pages. Change the colors in :root to restyle.
+   ============================================================== */
+
+:root {
+  --st-ink:         #1f2933;   /* main text          */
+  --st-muted:       #5f6b7a;   /* secondary text     */
+  --st-line:        #e6e9ee;   /* borders            */
+  --st-accent:      #2f5d8a;   /* links, highlights  */
+  --st-accent-soft: #eef3f9;   /* hover backgrounds  */
+}
+
+
+/* ---------- Navbar ---------- */
+
+.masthead {
+  position: sticky;
+  top: 0;
+  border-bottom: 1px solid var(--st-line);
+  background: rgba(255, 255, 255, 0.96);
+}
+
+.masthead__inner-wrap {
+  padding-top: 0.6em;
+  padding-bottom: 0.6em;
+}
+
+.greedy-nav {
+  background: transparent;
+}
+
+.greedy-nav a {
+  margin: 0 0.15rem;
+  padding: 0.45rem 0.8rem;
+  border-radius: 8px;
+  color: var(--st-muted);
+  font-size: 0.92rem;
+  font-weight: 500;
+  transition: background-color 0.15s, color 0.15s;
+}
+
+.greedy-nav a:hover {
+  background: var(--st-accent-soft);
+  color: var(--st-accent);
+}
+
+.greedy-nav .visible-links a:before {
+  display: none;
+}
+
+.greedy-nav .visible-links li:first-child a {
+  padding-left: 0;
+  color: var(--st-ink);
+  font-size: 1.05rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.greedy-nav .visible-links li:first-child a:hover {
+  background: transparent;
+  color: var(--st-accent);
+}
+
+.greedy-nav a.is-active {
+  background: var(--st-accent-soft);
+  color: var(--st-accent);
+  font-weight: 600;
+}
+
+.greedy-nav button {
+  border-radius: 8px;
+  background-color: var(--st-accent);
+}
+
+.greedy-nav .hidden-links {
+  padding: 0.4rem;
+  border: 1px solid var(--st-line);
+  border-radius: 10px;
+  box-shadow: 0 6px 20px rgba(31, 41, 51, 0.1);
+}
+
+.greedy-nav .hidden-links a {
+  margin: 0;
+  padding: 0.5rem 0.8rem;
+}
+
+
+/* ---------- Page title ---------- */
+
+.page__title {
+  margin-bottom: 0.4em;
+  color: var(--st-ink);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+
+/* ---------- Sidebar (author profile) ---------- */
+
+.author__avatar img {
+  border: 1px solid var(--st-line);
+  box-shadow: 0 2px 12px rgba(31, 41, 51, 0.08);
+}
+
+.sidebar .author__name {
+  color: var(--st-ink);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.author__bio {
+  color: var(--st-muted);
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+
+.author__urls li {
+  margin: 0 0 0.1rem;
+  color: var(--st-muted);
+  font-size: 0.85rem;
+}
+
+.author__urls a {
+  display: block;
+  margin: 0 -0.5rem;
+  padding: 0.3rem 0.5rem;
+  border-radius: 6px;
+  color: var(--st-ink);
+  transition: background-color 0.15s, color 0.15s;
+}
+
+.author__urls a:hover {
+  background: var(--st-accent-soft);
+  color: var(--st-accent);
+  text-decoration: none;
+}
+
+.author__urls i,
+.author__urls .fa,
+.author__urls .fas,
+.author__urls .fab,
+.author__urls .ai {
+  color: var(--st-accent);
+}
+
+.author__urls-wrapper .btn--inverse {
+  border-color: var(--st-accent);
+  border-radius: 8px;
+  color: var(--st-accent);
+}
+
+@media (min-width: 1200px) {
+
+  .sidebar .author__avatar img {
+    max-width: 150px;
+    padding: 4px;
+  }
+
+  .author__urls-wrapper {
+    margin-top: 0.4rem;
+    padding-top: 0.9rem;
+    border-top: 1px solid var(--st-line);
+  }
+}

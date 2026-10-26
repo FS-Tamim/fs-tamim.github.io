@@ -1,0 +1,146 @@
+<!-- Styling for the home page. Change the colors in the first block. -->
+<style>
+
+  /* ---------- Colors ---------- */
+  .ab {
+    --ink:         #1f2933;   /* main text          */
+    --muted:       #5f6b7a;   /* secondary text     */
+    --line:        #e6e9ee;   /* borders            */
+    --accent:      #2f5d8a;   /* links, highlights  */
+    --accent-soft: #eef3f9;   /* tags, hovers       */
+
+    color: var(--ink);
+    font-size: 0.95rem;
+  }
+
+  .ab a       { color: var(--accent); text-decoration: none; }
+  .ab a:hover { text-decoration: underline; }
+
+  /* ---------- Intro ---------- */
+  .ab .ab-lead {
+    margin: 0 0 1rem;
+    font-size: 1.05rem;
+    line-height: 1.75;
+    color: var(--ink);
+  }
+
+  .ab .ab-text {
+    margin: 0 0 1rem;
+    line-height: 1.75;
+    color: var(--muted);
+    text-align: justify;
+  }
+
+  /* ---------- Research focus tags ---------- */
+  .ab .ab-focus {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.45rem;
+    margin: 1.2rem 0 0;
+  }
+
+  .ab .ab-chip {
+    padding: 0.3rem 0.85rem;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-size: 0.82rem;
+  }
+
+  .ab .ab-more {
+    margin-left: 0.3rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+  }
+
+  /* ---------- Quick link buttons ---------- */
+  .ab .ab-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 1.2rem 0 0;
+  }
+
+  .ab .ab-btn {
+    padding: 0.4rem 1rem;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    color: var(--ink);
+    font-size: 0.85rem;
+    font-weight: 500;
+    transition: border-color 0.15s, color 0.15s, background-color 0.15s;
+  }
+
+  .ab .ab-btn:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+    text-decoration: none;
+  }
+
+  .ab .ab-btn.primary {
+    border-color: var(--accent);
+    background: var(--accent);
+    color: #fff;
+  }
+
+  .ab .ab-btn.primary:hover {
+    background: #244a70;
+    color: #fff;
+  }
+
+  /* ---------- News ---------- */
+  .ab h2.ab-h {
+    margin: 2.4rem 0 0.8rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 2px solid var(--line);
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: var(--ink);
+  }
+
+  .ab .ab-news {
+    margin: 0;
+    padding: 0;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    background: #fff;
+    list-style: none;
+  }
+
+  .ab .ab-news.scroll {
+    max-height: 26rem;
+    overflow-y: auto;
+  }
+
+  .ab .ab-news li {
+    display: flex;
+    gap: 1rem;
+    margin: 0;
+    padding: 0.75rem 1.1rem;
+    border-bottom: 1px solid var(--line);
+    line-height: 1.55;
+  }
+
+  .ab .ab-news li:last-child { border-bottom: none; }
+
+  .ab .ab-date {
+    flex: 0 0 5.5rem;
+    color: var(--accent);
+    font-size: 0.85rem;
+    font-weight: 600;
+  }
+
+  .ab .ab-item {
+    flex: 1;
+    font-size: 0.92rem;
+  }
+
+  /* ---------- Phones ---------- */
+  @media (max-width: 600px) {
+    .ab .ab-text      { text-align: left; }
+    .ab .ab-news li   { flex-direction: column; gap: 0.15rem; }
+    .ab .ab-date      { flex: none; }
+  }
+
+</style>
