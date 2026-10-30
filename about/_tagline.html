@@ -1,0 +1,71 @@
+<!--
+  Typing tagline above the home page title.
+  The sentences are in about/index.md under "taglines:".
+-->
+<style>
+
+  .page__tagline {
+    min-height: 1.6em;
+    margin: 0 0 0.5rem;
+    color: #2f5d8a;
+    font-family: Menlo, Consolas, "Courier New", monospace;
+    font-size: 0.95rem;
+    font-weight: 500;
+    letter-spacing: 0.01em;
+  }
+
+  .page__tagline-cursor {
+    display: inline-block;
+    width: 2px;
+    height: 1.05em;
+    margin-left: 3px;
+    vertical-align: -0.15em;
+    background: #2f5d8a;
+    animation: tagline-blink 1s steps(1) infinite;
+  }
+
+  @keyframes tagline-blink {
+    50% { opacity: 0; }
+  }
+
+  @media (max-width: 600px) {
+    .page__tagline { font-size: 0.85rem; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .page__tagline-cursor { display: none; }
+  }
+
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var box = document.querySelector(".page__tagline");
+    if (!box) { return; }
+    var out = box.querySelector(".page__tagline-text");
+    var lines = [];
+    try { lines = JSON.parse(box.getAttribute("data-taglines")) || []; } catch (err) { return; }
+    if (lines.length < 2) { return; }
+    if (window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches) { return; }
+
+    var TYPE = 45, ERASE = 22, HOLD = 1900, GAP = 350;
+    var line = 0, pos = 0, typing = true;
+    out.textContent = "";
+
+    function tick() {
+      var text = lines[line];
+      if (typing) {
+        pos++;
+        out.textContent = text.slice(0, pos);
+        if (pos === text.length) { typing = false; setTimeout(tick, HOLD); return; }
+        setTimeout(tick, TYPE);
+      } else {
+        pos--;
+        out.textContent = text.slice(0, pos);
+        if (pos === 0) { typing = true; line = (line + 1) % lines.length; setTimeout(tick, GAP); return; }
+        setTimeout(tick, ERASE);
+      }
+    }
+    setTimeout(tick, 600);
+  });
+</script>

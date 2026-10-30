@@ -19,6 +19,15 @@ redirect_from:
 # ==============================================================
 
 
+# ---------------- TAGLINES (typed one by one above the title) ----------------
+taglines:
+  - "NLP researcher building reliable LLMs for Bengali."
+  - "Lecturer in Computer Science and Engineering at IUBAT."
+  - "Exploring when to trust LLMs over fine-tuned models."
+  - "Teaching machines to understand culturally grounded content."
+  - "Working on multimodal, multilingual, and socially grounded NLP."
+
+
 # ---------------- QUICK LINKS (buttons under the intro) ----------------
 links:
   - label: "Email"
@@ -53,6 +62,7 @@ news:
 ---
 
 {% include_relative _style.html %}
+{% include_relative _tagline.html %}
 
 <div class="ab">
 
