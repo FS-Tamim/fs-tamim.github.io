@@ -41,4 +41,27 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&display=swap">
 
+<script>
+  (function () {
+    var t = null;
+    try { t = localStorage.getItem("theme"); } catch (e) {}
+    if (t !== "dark" && t !== "light") {
+      t = (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches) ? "dark" : "light";
+    }
+    document.documentElement.setAttribute("data-theme", t);
+  })();
+  document.addEventListener("click", function (ev) {
+    var btn = ev.target.closest ? ev.target.closest(".theme-toggle") : null;
+    if (!btn) { return; }
+    ev.preventDefault();
+    var root = document.documentElement;
+    var next = root.getAttribute("data-theme") === "dark" ? "light" : "dark";
+    root.classList.add("theme-animate");
+    root.setAttribute("data-theme", next);
+    try { localStorage.setItem("theme", next); } catch (e) {}
+    setTimeout(function () { root.classList.remove("theme-animate"); }, 350);
+  });
+</script>
+<link rel="stylesheet" href="{{ base_path }}/assets/css/dark-mode.css">
+
 <!-- end custom head snippets -->

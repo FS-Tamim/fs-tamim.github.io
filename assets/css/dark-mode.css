@@ -1,0 +1,234 @@
+/* ==============================================================
+   DARK MODE - applies to the whole site when the moon/sun button
+   in the navbar is switched to dark. Change the colors in the
+   first block to restyle dark mode.
+   ============================================================== */
+
+html[data-theme="dark"] {
+  color-scheme: dark;
+
+  --dm-bg:          #0f1419;   /* page background        */
+  --dm-surface:     #161c23;   /* cards                  */
+  --dm-surface-2:   #1b222b;   /* card headers, footer   */
+  --dm-hover:       #1f2833;   /* row hover              */
+  --dm-ink:         #e6e9ee;   /* main text              */
+  --dm-muted:       #9aa5b1;   /* secondary text         */
+  --dm-line:        #2a323c;   /* borders                */
+  --dm-accent:      #7fb0e0;   /* links, highlights      */
+  --dm-accent-soft: #1c2a3a;   /* tags, badges           */
+  --dm-green:       #6fcf97;
+  --dm-green-soft:  #15291e;
+  --dm-gold:        #e9b25a;
+  --dm-gold-soft:   #2e2414;
+
+  --st-ink:         var(--dm-ink);
+  --st-muted:       var(--dm-muted);
+  --st-line:        var(--dm-line);
+  --st-accent:      var(--dm-accent);
+  --st-accent-soft: var(--dm-accent-soft);
+}
+
+
+/* ---------- Whole site ---------- */
+
+html[data-theme="dark"] body {
+  background: var(--dm-bg);
+  color: var(--dm-ink);
+}
+
+html[data-theme="dark"] h1,
+html[data-theme="dark"] h2,
+html[data-theme="dark"] h3,
+html[data-theme="dark"] h4,
+html[data-theme="dark"] h5,
+html[data-theme="dark"] h6 {
+  color: var(--dm-ink);
+}
+
+html[data-theme="dark"] a { color: var(--dm-accent); }
+
+html[data-theme="dark"] hr,
+html[data-theme="dark"] .page__content h2 {
+  border-color: var(--dm-line);
+}
+
+html[data-theme="dark"] code,
+html[data-theme="dark"] pre,
+html[data-theme="dark"] blockquote,
+html[data-theme="dark"] table,
+html[data-theme="dark"] th,
+html[data-theme="dark"] td {
+  border-color: var(--dm-line);
+  background-color: var(--dm-surface);
+  color: var(--dm-ink);
+}
+
+html[data-theme="dark"] .author__avatar img {
+  border-color: var(--dm-line);
+  box-shadow: none;
+}
+
+
+/* ---------- Navbar ---------- */
+
+html[data-theme="dark"] .masthead {
+  border-bottom-color: var(--dm-line);
+  background: rgba(15, 20, 25, 0.94);
+}
+
+html[data-theme="dark"] .greedy-nav,
+html[data-theme="dark"] .greedy-nav .hidden-links,
+html[data-theme="dark"] .author__urls {
+  background: var(--dm-bg);
+}
+
+html[data-theme="dark"] .greedy-nav .hidden-links {
+  border-color: var(--dm-line);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.5);
+}
+
+html[data-theme="dark"] .greedy-nav .hidden-links:before,
+html[data-theme="dark"] .greedy-nav .hidden-links:after {
+  border-color: var(--dm-line) transparent;
+}
+
+
+/* ---------- Footer ---------- */
+
+html[data-theme="dark"] .page__footer {
+  border-top-color: var(--dm-line);
+  background: #12181f;
+}
+
+
+/* ---------- Page color variables ---------- */
+
+html[data-theme="dark"] .rs,
+html[data-theme="dark"] .tc,
+html[data-theme="dark"] .ed,
+html[data-theme="dark"] .ac,
+html[data-theme="dark"] .ab {
+  --ink:         var(--dm-ink);
+  --muted:       var(--dm-muted);
+  --line:        var(--dm-line);
+  --accent:      var(--dm-accent);
+  --accent-soft: var(--dm-accent-soft);
+  --me:          var(--dm-green);
+  --lab:         var(--dm-green);
+  --lab-soft:    var(--dm-green-soft);
+  --done:        var(--dm-green);
+  --done-soft:   var(--dm-green-soft);
+  --gold:        var(--dm-gold);
+  --gold-soft:   var(--dm-gold-soft);
+}
+
+
+/* ---------- Cards (white boxes become dark) ---------- */
+
+html[data-theme="dark"] .rs .pub,
+html[data-theme="dark"] .tc .sem,
+html[data-theme="dark"] .ed .ed-card,
+html[data-theme="dark"] .ac .ac-honors,
+html[data-theme="dark"] .ac .act,
+html[data-theme="dark"] .ac .ac-skills,
+html[data-theme="dark"] .ab .ab-news {
+  background: var(--dm-surface);
+}
+
+html[data-theme="dark"] .tc .sem-head {
+  background: var(--dm-surface-2);
+}
+
+html[data-theme="dark"] .rs .pub:hover,
+html[data-theme="dark"] .ed .ed-card:hover {
+  border-color: #3a4552;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.35);
+}
+
+html[data-theme="dark"] .tc .course:hover,
+html[data-theme="dark"] .ac .honor:hover,
+html[data-theme="dark"] .ab .ab-news li:hover {
+  background: var(--dm-hover);
+}
+
+html[data-theme="dark"] .ed .ed-dot {
+  border-color: var(--dm-bg);
+}
+
+
+/* ---------- Badges and buttons ---------- */
+
+html[data-theme="dark"] .rs .status,
+html[data-theme="dark"] .ed .ed-status {
+  background: var(--dm-gold-soft);
+  color: var(--dm-gold);
+}
+
+html[data-theme="dark"] .ed .ed-status.done {
+  background: var(--dm-green-soft);
+  color: var(--dm-green);
+}
+
+html[data-theme="dark"] .ac .chip-light {
+  background: transparent;
+}
+
+html[data-theme="dark"] .tc .btn-empty {
+  color: #4a5562;
+}
+
+html[data-theme="dark"] .ab .ab-btn.primary {
+  border-color: #3d6f9f;
+  background: #3d6f9f;
+  color: #fff;
+}
+
+html[data-theme="dark"] .ab .ab-btn.primary:hover {
+  background: #4a80b3;
+}
+
+html[data-theme="dark"] .ab .ab-chip:hover {
+  background: #243549;
+}
+
+html[data-theme="dark"] .ab .ab-btn:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+
+
+/* ---------- Home page tagline and title line ---------- */
+
+html[data-theme="dark"] .page__tagline { color: var(--dm-accent); }
+html[data-theme="dark"] .page__tagline-cursor,
+html[data-theme="dark"] .page__title::after { background: var(--dm-accent); }
+
+
+/* ---------- The moon / sun button ---------- */
+
+.greedy-nav a.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.1rem;
+  height: 2.1rem;
+  margin-left: 0.4rem;
+  padding: 0;
+  border: 1px solid var(--st-line);
+  border-radius: 50%;
+  color: var(--st-muted);
+  font-size: 0.9rem;
+}
+
+.greedy-nav a.theme-toggle:hover {
+  border-color: var(--st-accent);
+  color: var(--st-accent);
+}
+
+.theme-toggle .theme-icon-sun                          { display: none; }
+html[data-theme="dark"] .theme-toggle .theme-icon-sun  { display: inline; }
+html[data-theme="dark"] .theme-toggle .theme-icon-moon { display: none; }
+
+html.theme-animate,
+html.theme-animate * {
+  transition: background-color 0.3s, color 0.3s, border-color 0.3s !important;
+}

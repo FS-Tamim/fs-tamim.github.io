@@ -16,6 +16,7 @@
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link_url }}"{% if page.url == link_url %} class="is-active"{% endif %}>{{ link.title }}</a></li>
           {% endfor %}
+          <li class="masthead__menu-item"><a href="#" class="theme-toggle" role="button" aria-label="Switch between dark and light mode" title="Dark / light mode"><i class="fas fa-moon theme-icon-moon" aria-hidden="true"></i><i class="fas fa-sun theme-icon-sun" aria-hidden="true"></i></a></li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
