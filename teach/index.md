@@ -33,6 +33,23 @@ intro: >-
 
 semesters:
 
+  - term: "Fall 2026"
+    role: "Instructor"
+    institution: "IUBAT"
+    courses:
+      - name: "Principles and Techniques of Data Science"
+        type: "Theory"
+        students: 120
+      - name: "System Analysis and Design"
+        type: "Theory"
+        students: 40
+      - name: "System Analysis and Design"
+        type: "Lab"
+        students: 40
+      - name: "Career Planning and Development II"
+        type: "Theory"
+        students: 40
+
   - term: "Spring 2026"
     role: "Instructor"
     institution: "IUBAT"
