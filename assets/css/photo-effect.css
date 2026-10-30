@@ -1,0 +1,91 @@
+/* ==============================================================
+   PROFILE PHOTO EFFECT (sidebar)
+   Spinning ring + pulse glow + floating, with zoom on hover.
+   To remove: delete the photo-effect.css line in
+   _includes/head/custom.html
+   ============================================================== */
+
+@property --photo-angle {
+  syntax: "<angle>";
+  initial-value: 0deg;
+  inherits: false;
+}
+
+@keyframes photo-spin {
+  to { --photo-angle: 360deg; }
+}
+
+@keyframes photo-float {
+  0%, 100% { translate: 0 0; }
+  50%      { translate: 0 -7px; }
+}
+
+@keyframes photo-pulse {
+  0%   { box-shadow: 0 0 0 0    rgba(47, 93, 138, 0.50); }
+  70%  { box-shadow: 0 0 0 14px rgba(47, 93, 138, 0); }
+  100% { box-shadow: 0 0 0 0    rgba(47, 93, 138, 0); }
+}
+
+@keyframes photo-pulse-dark {
+  0%   { box-shadow: 0 0 0 0    rgba(127, 176, 224, 0.45); }
+  70%  { box-shadow: 0 0 0 14px rgba(127, 176, 224, 0); }
+  100% { box-shadow: 0 0 0 0    rgba(127, 176, 224, 0); }
+}
+
+@keyframes photo-pulse-small {
+  0%   { box-shadow: 0 0 0 0   rgba(47, 93, 138, 0.50); }
+  70%  { box-shadow: 0 0 0 6px rgba(47, 93, 138, 0); }
+  100% { box-shadow: 0 0 0 0   rgba(47, 93, 138, 0); }
+}
+
+/* ---------- Large screens ---------- */
+
+html body .sidebar .author__avatar img {
+  padding: 4px;
+  border: 3px solid #ffffff;
+  border-radius: 50%;
+  background: conic-gradient(from var(--photo-angle), #2f5d8a, #7fb0e0, #1f7a4d, #e9b25a, #2f5d8a);
+  animation:
+    photo-spin  4s   linear      infinite,
+    photo-float 3.5s ease-in-out infinite,
+    photo-pulse 2.4s ease-out    infinite;
+  transition: scale 0.3s ease;
+}
+
+html body .sidebar .author__avatar img:hover {
+  scale: 1.06;
+}
+
+html[data-theme="dark"] body .sidebar .author__avatar img {
+  border-color: #0f1419;
+  animation:
+    photo-spin       4s   linear      infinite,
+    photo-float      3.5s ease-in-out infinite,
+    photo-pulse-dark 2.4s ease-out    infinite;
+}
+
+/* ---------- Small screens: smaller pulse, no floating ---------- */
+
+@media (max-width: 1199px) {
+  html body .sidebar .author__avatar img,
+  html[data-theme="dark"] body .sidebar .author__avatar img {
+    padding: 2px;
+    border-width: 2px;
+    animation:
+      photo-spin        4s   linear   infinite,
+      photo-pulse-small 2.4s ease-out infinite;
+  }
+}
+
+/* ---------- Visitors who turn off motion ---------- */
+
+@media (prefers-reduced-motion: reduce) {
+  html body .sidebar .author__avatar img,
+  html[data-theme="dark"] body .sidebar .author__avatar img {
+    animation: none;
+    transition: none;
+  }
+  html body .sidebar .author__avatar img:hover {
+    scale: 1;
+  }
+}
