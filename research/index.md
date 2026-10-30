@@ -31,10 +31,12 @@ permalink: /research/
 
 # ---------------- RESEARCH INTERESTS ----------------
 interests:
-  - "NLP for social computing"
-  - "Multimodal NLP"
-  - "Low-resource, multilingual and cross-lingual NLP"
-  - "Cognition and reasoning in LLMs"
+  - "Reasoning in LLMs: mathematical and multi-step reasoning"
+  - "LLM safety and security: prompt injection and jailbreak attacks"
+  - "Bias and fairness in large language models"
+  - "Multilingual and low-resource LLMs, with a focus on Bengali"
+  - "Vision-language models for culturally grounded multimodal content"
+  - "LLM evaluation: when to trust LLMs over fine-tuned models"
 
 
 # ---------------- WORKS IN PROGRESS ----------------
@@ -114,8 +116,10 @@ conferences:
 <!-- ================= Research interests ================= -->
 
 <p class="rs-lead">
-  My broad research interests are in <strong>Natural Language Processing (NLP)</strong>
-  and <strong>Deep Learning</strong>. Some of the areas I am working on are:
+  My research lies in <strong>Natural Language Processing</strong>, with a focus on building
+  <strong>trustworthy large language models</strong>. I study how LLMs reason, where they fail,
+  and how they can be made safe, fair, and reliable, especially for low-resource languages such as Bengali
+  and for culturally grounded multimodal content. My current interests are:
 </p>
 
 <ul class="rs-chips">

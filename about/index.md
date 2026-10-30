@@ -22,6 +22,7 @@ redirect_from:
 # ---------------- TAGLINES (typed one by one above the title) ----------------
 taglines:
   - "NLP researcher building reliable LLMs for Bengali."
+  - "Probing LLMs for bias, reasoning, and jailbreaks."
   - "Lecturer in Computer Science and Engineering at IUBAT."
   - "Exploring when to trust LLMs over fine-tuned models."
   - "Teaching machines to understand culturally grounded content."
@@ -42,10 +43,11 @@ links:
 
 # ---------------- RESEARCH FOCUS (tags) ----------------
 focus:
-  - "LLMs for low-resource languages"
-  - "Multimodal and vision-language models"
-  - "NLP for social good"
-  - "Bengali NLP"
+  - "Reasoning in LLMs"
+  - "LLM safety and jailbreaks"
+  - "Bias and fairness"
+  - "Multilingual and Bengali NLP"
+  - "Vision-language models"
 
 
 # ---------------- NEWS (newest first) ----------------
@@ -74,8 +76,10 @@ news:
   <a href="https://iubat.edu/">International University of Business Agriculture and Technology (IUBAT)</a>,
   and a research fellow at the
   <a href="https://www.researchgate.net/lab/CUET-NLP-Lab-Moshiul-Hoque">CUET NLP Lab</a>.
-  My research focuses on making <strong>large language models</strong> reliable for low-resource languages such as Bengali,
-  with an emphasis on multimodal and socially grounded NLP.
+  My research focuses on building <strong>trustworthy large language models</strong>: how they reason,
+  where they fail, and how to make them safe and fair, especially for low-resource languages such as Bengali.
+  I work on mathematical reasoning, bias, prompt injection and jailbreak attacks, and vision-language models
+  for culturally grounded content.
 </p>
 
 <p class="ab-text">
