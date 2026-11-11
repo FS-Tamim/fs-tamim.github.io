@@ -21,10 +21,9 @@
     margin: 0 0 1.4rem;
     padding: 0.9rem 1.1rem;
     border: 1px solid var(--line);
-    border-top: 3px solid var(--accent);
+    border-left: 4px solid var(--accent);
     border-radius: 10px;
     background: var(--accent-soft);
-    text-align: center;
   }
 
   .ab .ab-phd-tag {
@@ -42,6 +41,7 @@
     font-size: 0.92rem;
     line-height: 1.65;
     color: var(--ink);
+    text-align: justify;
   }
 
   .ab .ab-phd a { font-weight: 600; }
@@ -169,7 +169,8 @@
   /* ---------- Phones ---------- */
   @media (max-width: 600px) {
     .ab .ab-lead,
-    .ab .ab-text      { text-align: left; }
+    .ab .ab-text,
+    .ab .ab-phd p     { text-align: left; }
     .ab .ab-news li   { flex-direction: column; gap: 0.15rem; }
     .ab .ab-date      { flex: none; }
   }
