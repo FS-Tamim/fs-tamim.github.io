@@ -56,23 +56,35 @@
   .rs .rs-note a       { color: var(--accent); text-decoration: none; }
   .rs .rs-note a:hover { text-decoration: underline; }
 
-  /* ---------- Research interest tags ---------- */
-  .rs .rs-chips {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-    margin: 0;
-    padding: 0;
-    list-style: none;
+  /* ---------- Research interest cards ---------- */
+  .rs .rs-interests {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.6rem;
+    margin: 0.4rem 0 0;
   }
 
-  .rs .rs-chips li {
-    margin: 0;
-    padding: 0.35rem 0.9rem;
-    border-radius: 999px;
+  .rs .rs-interest {
+    padding: 0.75rem 1rem;
+    border: 1px solid var(--line);
+    border-left: 3px solid var(--accent);
+    border-radius: 8px;
     background: var(--accent-soft);
+  }
+
+  .rs .rs-interest-title {
+    display: block;
+    margin-bottom: 0.15rem;
+    font-size: 0.92rem;
+    font-weight: 600;
     color: var(--accent);
+  }
+
+  .rs .rs-interest-detail {
+    display: block;
     font-size: 0.85rem;
+    line-height: 1.5;
+    color: var(--muted);
   }
 
   /* ---------- Publication card ---------- */
@@ -144,6 +156,7 @@
   /* ---------- Phones ---------- */
   @media (max-width: 600px) {
     .rs .rs-lead  { text-align: left; }
+    .rs .rs-interests { grid-template-columns: 1fr; }
     .rs .pub      { flex-direction: column; gap: 0.3rem; }
     .rs .pub-year { flex: none; }
   }

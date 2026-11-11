@@ -31,13 +31,20 @@ permalink: /research/
 
 
 # ---------------- RESEARCH INTERESTS ----------------
+#   Each interest is a card: a short title and a one-line detail.
 interests:
-  - "Reasoning in LLMs: mathematical and multi-step reasoning"
-  - "LLM safety and security: prompt injection and jailbreak attacks"
-  - "Bias and fairness in large language models"
-  - "Multilingual and low-resource LLMs, with a focus on Bengali"
-  - "Vision-language models for culturally grounded multimodal content"
-  - "LLM evaluation: when to trust LLMs over fine-tuned models"
+  - title: "Reasoning in LLMs"
+    detail: "Mathematical and multi-step reasoning in large language models."
+  - title: "Safety and security"
+    detail: "Robustness of LLMs against prompt injection and jailbreak attacks."
+  - title: "Bias and fairness"
+    detail: "Measuring and reducing social bias in what LLMs generate."
+  - title: "Multilingual and low-resource NLP"
+    detail: "Building and evaluating LLMs for Bengali and other under-served languages."
+  - title: "Vision-language models"
+    detail: "Understanding culturally grounded multimodal content such as memes."
+  - title: "LLM evaluation"
+    detail: "Knowing when to trust a general-purpose LLM over a fine-tuned model."
 
 
 # ---------------- RESEARCH VISION (what you want to study next) ----------------
@@ -138,15 +145,20 @@ conferences:
 <!-- ================= Research interests ================= -->
 
 <p class="rs-lead">
-  My research lies in <strong>Natural Language Processing</strong>, with a focus on building
-  <strong>trustworthy large language models</strong>. I study how LLMs reason, where they fail,
-  and how they can be made safe, fair, and reliable, especially for low-resource languages such as Bengali
+  My research is in <strong>Natural Language Processing</strong>, centred on
+  <strong>trustworthy large language models</strong>. I study how LLMs reason, where and why they fail,
+  and how to make them safe, fair, and reliable, particularly for low-resource languages such as Bengali
   and for culturally grounded multimodal content. My current interests are:
 </p>
 
-<ul class="rs-chips">
-  {% for item in page.interests %}<li>{{ item }}</li>{% endfor %}
-</ul>
+<div class="rs-interests">
+  {% for item in page.interests %}
+  <div class="rs-interest">
+    <span class="rs-interest-title">{{ item.title }}</span>
+    <span class="rs-interest-detail">{{ item.detail }}</span>
+  </div>
+  {% endfor %}
+</div>
 
 <p class="rs-note">
   Social computing topics include hostility, violence, aggression, depression,
