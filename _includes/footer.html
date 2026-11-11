@@ -23,3 +23,27 @@
 
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
+{% if site.goatcounter and site.goatcounter != "" %}
+<div class="page__footer-copyright visit-count" id="visit-count" hidden>
+  <i class="fa fa-fw fa-eye" aria-hidden="true"></i> <span id="visit-count-num"></span> visits
+</div>
+<script data-goatcounter="https://{{ site.goatcounter }}.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+<script>
+  (function () {
+    {% if jekyll.environment == "development" %}
+    // Local preview only: show a sample number so the placement is visible.
+    document.getElementById("visit-count-num").textContent = "1,234 (preview)";
+    document.getElementById("visit-count").hidden = false;
+    {% endif %}
+    if (!window.fetch) { return; }
+    fetch("https://{{ site.goatcounter }}.goatcounter.com/counter/TOTAL.json")
+      .then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (d) {
+        if (!d || !d.count) { return; }
+        document.getElementById("visit-count-num").textContent = d.count;
+        document.getElementById("visit-count").hidden = false;
+      })
+      .catch(function () {});
+  })();
+</script>
+{% endif %}

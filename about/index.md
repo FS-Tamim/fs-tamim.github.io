@@ -1,6 +1,6 @@
 ---
 title: "Hello, I'm Tamim"
-excerpt: "About me"
+excerpt: ""
 author_profile: true
 permalink: /
 redirect_from:

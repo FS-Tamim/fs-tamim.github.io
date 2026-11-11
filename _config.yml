@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Fahim Shakil Tamim"
 title_separator          : "-"
 name                     : &name "Fahim Shakil Tamim"
-description              : &description ""
+description              : &description "Lecturer in CSE at IUBAT and NLP researcher working on trustworthy large language models: reasoning, safety, bias, and Bengali NLP."
 url                      : https://fs-tamim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "FS-Tamim/fs-tamim.github.io"
@@ -22,7 +22,7 @@ future                   : true
 read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : false # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            :
   discourse:
@@ -63,7 +63,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "profile.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -72,9 +72,15 @@ social:
   links: # An array of links to social media profiles
 
 
+# Visitor counter (shown in the footer) - free, no cookies.
+# Sign up at https://www.goatcounter.com with this code, then in
+# GoatCounter > Settings tick "Allow adding visitor counts on your website".
+# Leave empty ("") to turn the counter off.
+goatcounter              : "fs-tamim"
+
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : 
 
@@ -82,7 +88,7 @@ analytics:
 # Site Author
 author:
   name             : "Fahim Shakil Tamim"
-  avatar           : "tamim_formal_image_2..._imresizer.jpg"
+  avatar           : "profile.jpg"
   bio              : "Lecturer, Department of CSE, IUBAT"
   location         : "Uttara, Dhaka"
   employer         :
