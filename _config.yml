@@ -72,10 +72,9 @@ social:
   links: # An array of links to social media profiles
 
 
-# Visitor counter (shown in the footer) - free, no cookies.
-# Sign up at https://www.goatcounter.com with this code, then in
-# GoatCounter > Settings tick "Allow adding visitor counts on your website".
-# Leave empty ("") to turn the counter off.
+# Private visitor stats (not shown on the site) - free, no cookies.
+# View them at https://fs-tamim.goatcounter.com
+# Leave empty ("") to turn tracking off.
 goatcounter              : "fs-tamim"
 
 # Analytics

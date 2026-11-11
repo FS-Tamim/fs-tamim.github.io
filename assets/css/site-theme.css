@@ -192,10 +192,3 @@
   line-height: 1.25;
 }
 
-
-/* ---------- Visitor counter (footer) ---------- */
-
-.visit-count {
-  margin-top: 0.4em;
-  opacity: 0.8;
-}
