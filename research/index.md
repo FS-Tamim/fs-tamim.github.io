@@ -24,6 +24,7 @@ permalink: /research/
 #    paper_url : link for the "Paper" button   (optional)
 #    code_url  : link for a "Code" button      (optional)
 #    status    : e.g. "Under review" — for works in progress
+#    selected  : true — also show it under "Selected publications"
 #
 #  To leave an optional field out, delete that line.
 # ==============================================================
@@ -37,6 +38,17 @@ interests:
   - "Multilingual and low-resource LLMs, with a focus on Bengali"
   - "Vision-language models for culturally grounded multimodal content"
   - "LLM evaluation: when to trust LLMs over fine-tuned models"
+
+
+# ---------------- RESEARCH VISION (what you want to study next) ----------------
+vision: >-
+  I want to understand when large language models can be trusted, and how to make
+  them trustworthy for languages and cultures they were not built for. Three questions
+  guide my work. How reliably do LLMs reason in low-resource languages such as Bengali,
+  and how do their failures differ from those in English? Do safety behaviours, such as
+  bias mitigation and defences against jailbreaks and prompt injection, carry over across
+  languages and modalities? And when should we rely on a large general-purpose LLM rather
+  than a smaller fine-tuned model, and can a system learn to make that choice itself?
 
 
 # ---------------- WORKS IN PROGRESS ----------------
@@ -64,6 +76,7 @@ journals:
     venue_url: "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639"
     year: 2026
     paper_url: "https://ieeexplore.ieee.org/abstract/document/11369232/"
+    selected: true
 
   - title: "Enhanced Semantic Relatedness Prediction Using XLM-RoBERTa and CNNs with K-Fold Cross-Validation"
     authors: "Md Ayon Mia, Fahim Shakil Tamim, Zaima Sartaj Taheri, Md Alamin Talukder"
@@ -71,6 +84,7 @@ journals:
     venue_url: "https://ietresearch.onlinelibrary.wiley.com/journal/20513305"
     year: 2025
     paper_url: "https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/tje2.70106"
+    selected: true
 
 
 # ---------------- CONFERENCES ----------------
@@ -81,31 +95,39 @@ conferences:
     venue: "NAACL SRW 2025"
     year: 2025
     paper_url: "https://aclanthology.org/2025.naacl-srw.31/"
+    selected: true
+
+  - title: "Optimizing SMS Spam Detection with Large Language Models and Transformer Architectures"
+    authors: "Nazir Ahmed, ASM Shakil Ahamed, Fahim Shakil Tamim"
+    venue: "ECCE 2025"
+    year: 2025
+    paper_url: "https://ieeexplore.ieee.org/document/11013998"
 
   - title: "Sentiment Classification of Multi-Modal Memes Using Deep Learning and Transformer Techniques"
     authors: "Tanzin Ahammad, Zaima Sartaj Taheri, Fahim Shakil Tamim"
     venue: "COMPAS 2024"
     year: 2024
+    paper_url: "https://ieeexplore.ieee.org/document/10796143"
 
   - title: "An Ensemble Approach of Transfer Learning and Vision Transformer to Identify COVID-19 from Chest X-Rays"
     authors: "Fahim Shakil Tamim, Zaima Sartaj Taheri, Sudipta Saha Niloy, Ashim Dey, Annesha Das"
     venue: "ICAEEE 2024"
     year: 2024
+    paper_url: "https://ieeexplore.ieee.org/document/10561636"
 
   - title: "Detecting Signs of Depression from Social Media Texts Using Generalized Autoregressive Pretraining Transformer Model"
     authors: "Fahim Shakil Tamim, Zaima Sartaj Taheri, Mohammed Moshiul Hoque"
     venue: "ICCIT 2023"
     year: 2023
+    paper_url: "https://ieeexplore.ieee.org/document/10441486"
 
   - title: "Detecting Violence Inciting Texts Based on Pre-Trained Transformers"
     authors: "Fahim Shakil Tamim, Sourav Saha, Avishek Das, Mohammed Moshiul Hoque"
     venue: "ICCIT 2023"
     year: 2023
+    paper_url: "https://ieeexplore.ieee.org/document/10441268"
+    selected: true
 
-  - title: "Optimizing SMS Spam Detection with Large Language Models and Transformer Architectures"
-    authors: "Nazir Ahmed, ASM Shakil Ahamed, Fahim Shakil Tamim"
-    venue: "ECCE 2023"
-    year: 2023
 ---
 
 {% include_relative _style.html %}
@@ -132,6 +154,14 @@ conferences:
 </p>
 
 
+<!-- ================= Research vision ================= -->
+
+{% if page.vision %}
+<h2 class="rs-h">Research vision</h2>
+<p class="rs-lead rs-vision">{{ page.vision }}</p>
+{% endif %}
+
+
 <!-- ================= Publications ================= -->
 
 <h2 class="rs-h">Publications</h2>
@@ -142,6 +172,16 @@ conferences:
   &middot;
   <a href="https://www.semanticscholar.org/author/Fahim-Shakil-Tamim/2287982856">Semantic Scholar</a>
 </p>
+
+
+{% assign all_pubs = page.journals | concat: page.conferences %}
+{% assign selected = all_pubs | where: "selected", true %}
+{% if selected.size > 0 %}
+<h3 class="rs-sub">Selected publications</h3>
+{% for pub in selected %}
+  {% include_relative _card.html pub=pub %}
+{% endfor %}
+{% endif %}
 
 
 <h3 class="rs-sub">Works in progress</h3>
