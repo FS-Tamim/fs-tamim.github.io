@@ -29,6 +29,13 @@ taglines:
   - "Working on multimodal, multilingual, and socially grounded NLP."
 
 
+# ---------------- PHD BANNER (shown above the intro) ----------------
+#   Change the text when your plans change. Set show: false to hide it.
+phd:
+  show: true
+  text: 'I am applying to <strong>PhD programs in NLP</strong> starting <strong>Fall 2027</strong>, with a focus on trustworthy and multilingual large language models. I would be glad to hear about opportunities: <a href="mailto:fstamim9@gmail.com">email me</a> or see my <a href="https://drive.google.com/file/d/1KLxo9yFKQuzWY8fA57siI1U1rK7ZLMEG/view?usp=sharing">CV</a>.'
+
+
 # ---------------- QUICK LINKS (buttons under the intro) ----------------
 links:
   - label: "Email"
@@ -67,6 +74,16 @@ news:
 {% include_relative _tagline.html %}
 
 <div class="ab">
+
+
+<!-- ================= PhD banner ================= -->
+
+{% if page.phd.show %}
+<div class="ab-phd">
+  <span class="ab-phd-tag">Prospective PhD student</span>
+  <p>{{ page.phd.text }}</p>
+</div>
+{% endif %}
 
 
 <!-- ================= Intro ================= -->
